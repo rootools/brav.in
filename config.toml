@@ -22,7 +22,7 @@ enableEmoji = true
 defaultContentLanguage = "ru"
 
 [params.info]
-description = "descr"
+description = "Я Unity-разработчик из города Ульяновска, а еще я выступаю на конференциях и веду канал в Телеграме о разработке игр. Просто держу в курсе!"
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -48,7 +48,8 @@ showReadingTime = false
 showLastmod = true
 taxonomyCloudShuffle = true
 accentColor = "#ffcd00"
-hideMainMenu = false
+hideMainMenu = true
+# hideMainMenu = false
 rtl = false
 
 [params.sidebar]
@@ -57,7 +58,8 @@ enable = true
 [params.widgets]
 # header = ["breadcrumbs"]
 homepage = ["recent_posts"]
-sidebar = ["about","sidebar_menu"]
+sidebar = ["about"]
+# sidebar = ["about","sidebar_menu"]
 footer = ["social_menu"]
 
 [params.opengraph.facebook]
