@@ -1,0 +1,310 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sidey",
+    "home_page_url": "http://localhost:4000/",
+    "feed_url": "http://localhost:4000/feed.json",
+    "description": "Simple and minimalistic jekyll blogging theme.",
+    "icon": "http://localhost:4000/apple-touch-icon.png",
+    "favicon": "http://localhost:4000/favicon.ico",
+    "expired": false,
+    
+    "author": "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}",
+    
+"items": [
+    
+        {
+            "id": "http://localhost:4000/2020/02/29/gamedev-in-kazan",
+            "title": "🎤 GameDev in Kazan. А что если?. Или нам нужен план Б!",
+            "summary": null,
+            "content_text": "https://lim.timepad.ru/event/1096587/",
+            "content_html": "<p><a href=\"https://lim.timepad.ru/event/1096587/\">https://lim.timepad.ru/event/1096587/</a></p>",
+            "url": "http://localhost:4000/2020/02/29/gamedev-in-kazan",
+            
+            
+            
+            
+            
+            "date_published": "2020-02-29T00:00:00+04:00",
+            "date_modified": "2020-02-29T00:00:00+04:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2019/10/12/talks-stachka",
+            "title": "🎤 Стачка. Разработка игр для NES/Famicom/Денди. Ограничения и трюки",
+            "summary": null,
+            "content_text": "https://nastachku.ru/archive/2019_innopolis/index.php?dispatch=products.view&amp;product_id=3599",
+            "content_html": "<p><a href=\"https://nastachku.ru/archive/2019_innopolis/index.php?dispatch=products.view&amp;product_id=3599\">https://nastachku.ru/archive/2019_innopolis/index.php?dispatch=products.view&amp;product_id=3599</a></p>",
+            "url": "http://localhost:4000/2019/10/12/talks-stachka",
+            
+            
+            
+            
+            
+            "date_published": "2019-10-12T00:00:00+04:00",
+            "date_modified": "2019-10-12T00:00:00+04:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2019/09/14/talks-bif",
+            "title": "🎤 БИФ 2019. Разработка игр для NES/Famicom/Денди. Ограничения и трюки",
+            "summary": null,
+            "content_text": "",
+            "content_html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/iq7drMe0Kx8\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>",
+            "url": "http://localhost:4000/2019/09/14/talks-bif",
+            
+            
+            
+            
+            
+            "date_published": "2019-09-14T00:00:00+04:00",
+            "date_modified": "2019-09-14T00:00:00+04:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2019/04/19/talks-secon-2",
+            "title": "🎤 Secon. Разработка игр для NES/Famicom/Денди. Ограничения и трюки",
+            "summary": null,
+            "content_text": "https://2019.secon.ru/reports/razrabotka-igr-dlya-nes-famicom-dendi-ogranicheniya-i-tryuki",
+            "content_html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/sP60Wn6SFuc\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe><p><a href=\"https://2019.secon.ru/reports/razrabotka-igr-dlya-nes-famicom-dendi-ogranicheniya-i-tryuki\">https://2019.secon.ru/reports/razrabotka-igr-dlya-nes-famicom-dendi-ogranicheniya-i-tryuki</a></p>",
+            "url": "http://localhost:4000/2019/04/19/talks-secon-2",
+            
+            
+            
+            
+            
+            "date_published": "2019-04-19T00:00:00+04:00",
+            "date_modified": "2019-04-19T00:00:00+04:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2019/04/19/talks-secon-1",
+            "title": "🎤 Secon. Разработка первого VR приложения",
+            "summary": null,
+            "content_text": "https://2019.secon.ru/reports/razrabotka-pervogo-vr-prilozheniya",
+            "content_html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cYsos20yMmQ\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe><p><a href=\"https://2019.secon.ru/reports/razrabotka-pervogo-vr-prilozheniya\">https://2019.secon.ru/reports/razrabotka-pervogo-vr-prilozheniya</a></p>",
+            "url": "http://localhost:4000/2019/04/19/talks-secon-1",
+            
+            
+            
+            
+            
+            "date_published": "2019-04-19T00:00:00+04:00",
+            "date_modified": "2019-04-19T00:00:00+04:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2018/10/27/podcast-kdi",
+            "title": "🎧 Как Делают Игры. Что сейчас происходит с VR",
+            "summary": null,
+            "content_text": "",
+            "content_html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/veFXSbPtT0w\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>",
+            "url": "http://localhost:4000/2018/10/27/podcast-kdi",
+            
+            
+            
+            
+            
+            "date_published": "2018-10-27T00:00:00+04:00",
+            "date_modified": "2018-10-27T00:00:00+04:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2018/09/15/talks-bif",
+            "title": "🎤 БИФ 2018. Пост мортем VR игры Joy Lab",
+            "summary": null,
+            "content_text": "",
+            "content_html": "",
+            "url": "http://localhost:4000/2018/09/15/talks-bif",
+            
+            
+            
+            
+            
+            "date_published": "2018-09-15T00:00:00+04:00",
+            "date_modified": "2018-09-15T00:00:00+04:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2018/08/13/podcast-post-launch",
+            "title": "🎧 Post Launch. Development for VR",
+            "summary": null,
+            "content_text": "",
+            "content_html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/t1Szw1dNLHA\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>",
+            "url": "http://localhost:4000/2018/08/13/podcast-post-launch",
+            
+            
+            
+            
+            
+            "date_published": "2018-08-13T00:00:00+04:00",
+            "date_modified": "2018-08-13T00:00:00+04:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2018/03/17/talks-secon",
+            "title": "🎤 Secon. Пост мортем VR игры Joy Lab",
+            "summary": null,
+            "content_text": "https://2018.secon.ru/reports/post-mortem-vr-igry-joy-lab",
+            "content_html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/bNL9u7M8Qxc\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe><p><a href=\"https://2018.secon.ru/reports/post-mortem-vr-igry-joy-lab\">https://2018.secon.ru/reports/post-mortem-vr-igry-joy-lab</a></p>",
+            "url": "http://localhost:4000/2018/03/17/talks-secon",
+            
+            
+            
+            
+            
+            "date_published": "2018-03-17T00:00:00+04:00",
+            "date_modified": "2018-03-17T00:00:00+04:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2017/09/30/talks-bif",
+            "title": "🎤 БИФ 2017. Первое VR приложение. Как избежать культурного шока",
+            "summary": null,
+            "content_text": "",
+            "content_html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Go-YdNXSkEc\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe>",
+            "url": "http://localhost:4000/2017/09/30/talks-bif",
+            
+            
+            
+            
+            
+            "date_published": "2017-09-30T00:00:00+04:00",
+            "date_modified": "2017-09-30T00:00:00+04:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2017/07/06/talks-ux-maraphone",
+            "title": "🎤 UX-Марафон. Пользовательский опыт в VR. Опять все сначала",
+            "summary": null,
+            "content_text": "https://ux-marafon.timepad.ru/event/478790/",
+            "content_html": "<p><a href=\"https://ux-marafon.timepad.ru/event/478790/\">https://ux-marafon.timepad.ru/event/478790/</a></p>",
+            "url": "http://localhost:4000/2017/07/06/talks-ux-maraphone",
+            
+            
+            
+            
+            
+            "date_published": "2017-07-06T00:00:00+04:00",
+            "date_modified": "2017-07-06T00:00:00+04:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2017/06/08/talks-arvrmr-conf",
+            "title": "🎤 AR/VR/MR Conference. Основы VR-разработки, и почему бизнесу об этом тоже надо знать",
+            "summary": null,
+            "content_text": "https://ar-conf.ru/ru/programhttps://ar-conf.ru/ru/speakers",
+            "content_html": "<p><a href=\"https://ar-conf.ru/ru/program\">https://ar-conf.ru/ru/program</a></p><p><a href=\"https://ar-conf.ru/ru/speakers\">https://ar-conf.ru/ru/speakers</a></p>",
+            "url": "http://localhost:4000/2017/06/08/talks-arvrmr-conf",
+            
+            
+            
+            
+            
+            "date_published": "2017-06-08T00:00:00+04:00",
+            "date_modified": "2017-06-08T00:00:00+04:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2017/04/20/talks-rif-kib",
+            "title": "🎤 РИФ+КИБ 2017. VR-приложение. Как избежать культурного шока",
+            "summary": null,
+            "content_text": "http://2017.russianinternetforum.ru/program/4315/",
+            "content_html": "<p><a href=\"http://2017.russianinternetforum.ru/program/4315/\">http://2017.russianinternetforum.ru/program/4315/</a></p>",
+            "url": "http://localhost:4000/2017/04/20/talks-rif-kib",
+            
+            
+            
+            
+            
+            "date_published": "2017-04-20T00:00:00+04:00",
+            "date_modified": "2017-04-20T00:00:00+04:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        },
+    
+        {
+            "id": "http://localhost:4000/2017/04/15/talks-stachka",
+            "title": "🎤 Стачка. Первое VR приложение. Как избежать культурного шока",
+            "summary": null,
+            "content_text": "https://nastachku.ru/archive/2017/index.php?dispatch=products.view&amp;product_id=2237",
+            "content_html": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Xnn61I5CavQ\" frameborder=\"0\" allow=\"autoplay; encrypted-media\" allowfullscreen=\"\"></iframe><p><a href=\"https://nastachku.ru/archive/2017/index.php?dispatch=products.view&amp;product_id=2237\">https://nastachku.ru/archive/2017/index.php?dispatch=products.view&amp;product_id=2237</a></p>",
+            "url": "http://localhost:4000/2017/04/15/talks-stachka",
+            
+            
+            
+            
+            
+            "date_published": "2017-04-15T00:00:00+04:00",
+            "date_modified": "2017-04-15T00:00:00+04:00",
+            
+                "author": 
+                "{"twitter"=>nil, "name"=>nil, "avatar"=>nil, "email"=>nil, "url"=>nil}"
+                
+            
+        }
+    
+    ]
+}
