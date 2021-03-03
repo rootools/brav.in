@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Sidey</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2021-03-03T21:15:18+04:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>🎤 GameDev in Kazan. А что если?. Или нам нужен план Б!</title>
+   <link href="http://localhost:4000/2020/02/29/gamedev-in-kazan"/>
+   <updated>2020-02-29T00:00:00+04:00</updated>
+   <id>http://localhost:4000/2020/02/29/gamedev-in-kazan</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://lim.timepad.ru/event/1096587/&quot;&gt;https://lim.timepad.ru/event/1096587/&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>🎤 Стачка. Разработка игр для NES/Famicom/Денди. Ограничения и трюки</title>
+   <link href="http://localhost:4000/2019/10/12/talks-stachka"/>
+   <updated>2019-10-12T00:00:00+04:00</updated>
+   <id>http://localhost:4000/2019/10/12/talks-stachka</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://nastachku.ru/archive/2019_innopolis/index.php?dispatch=products.view&amp;amp;product_id=3599&quot;&gt;https://nastachku.ru/archive/2019_innopolis/index.php?dispatch=products.view&amp;amp;product_id=3599&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>🎤 БИФ 2019. Разработка игр для NES/Famicom/Денди. Ограничения и трюки</title>
+   <link href="http://localhost:4000/2019/09/14/talks-bif"/>
+   <updated>2019-09-14T00:00:00+04:00</updated>
+   <id>http://localhost:4000/2019/09/14/talks-bif</id>
+   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/iq7drMe0Kx8&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>🎤 Secon. Разработка игр для NES/Famicom/Денди. Ограничения и трюки</title>
+   <link href="http://localhost:4000/2019/04/19/talks-secon-2"/>
+   <updated>2019-04-19T00:00:00+04:00</updated>
+   <id>http://localhost:4000/2019/04/19/talks-secon-2</id>
+   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/sP60Wn6SFuc&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://2019.secon.ru/reports/razrabotka-igr-dlya-nes-famicom-dendi-ogranicheniya-i-tryuki&quot;&gt;https://2019.secon.ru/reports/razrabotka-igr-dlya-nes-famicom-dendi-ogranicheniya-i-tryuki&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>🎤 Secon. Разработка первого VR приложения</title>
+   <link href="http://localhost:4000/2019/04/19/talks-secon-1"/>
+   <updated>2019-04-19T00:00:00+04:00</updated>
+   <id>http://localhost:4000/2019/04/19/talks-secon-1</id>
+   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cYsos20yMmQ&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://2019.secon.ru/reports/razrabotka-pervogo-vr-prilozheniya&quot;&gt;https://2019.secon.ru/reports/razrabotka-pervogo-vr-prilozheniya&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>🎧 Как Делают Игры. Что сейчас происходит с VR</title>
+   <link href="http://localhost:4000/2018/10/27/podcast-kdi"/>
+   <updated>2018-10-27T00:00:00+04:00</updated>
+   <id>http://localhost:4000/2018/10/27/podcast-kdi</id>
+   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/veFXSbPtT0w&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>🎤 БИФ 2018. Пост мортем VR игры Joy Lab</title>
+   <link href="http://localhost:4000/2018/09/15/talks-bif"/>
+   <updated>2018-09-15T00:00:00+04:00</updated>
+   <id>http://localhost:4000/2018/09/15/talks-bif</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>🎧 Post Launch. Development for VR</title>
+   <link href="http://localhost:4000/2018/08/13/podcast-post-launch"/>
+   <updated>2018-08-13T00:00:00+04:00</updated>
+   <id>http://localhost:4000/2018/08/13/podcast-post-launch</id>
+   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/t1Szw1dNLHA&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>🎤 Secon. Пост мортем VR игры Joy Lab</title>
+   <link href="http://localhost:4000/2018/03/17/talks-secon"/>
+   <updated>2018-03-17T00:00:00+04:00</updated>
+   <id>http://localhost:4000/2018/03/17/talks-secon</id>
+   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bNL9u7M8Qxc&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://2018.secon.ru/reports/post-mortem-vr-igry-joy-lab&quot;&gt;https://2018.secon.ru/reports/post-mortem-vr-igry-joy-lab&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>🎤 БИФ 2017. Первое VR приложение. Как избежать культурного шока</title>
+   <link href="http://localhost:4000/2017/09/30/talks-bif"/>
+   <updated>2017-09-30T00:00:00+04:00</updated>
+   <id>http://localhost:4000/2017/09/30/talks-bif</id>
+   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Go-YdNXSkEc&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>🎤 UX-Марафон. Пользовательский опыт в VR. Опять все сначала</title>
+   <link href="http://localhost:4000/2017/07/06/talks-ux-maraphone"/>
+   <updated>2017-07-06T00:00:00+04:00</updated>
+   <id>http://localhost:4000/2017/07/06/talks-ux-maraphone</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://ux-marafon.timepad.ru/event/478790/&quot;&gt;https://ux-marafon.timepad.ru/event/478790/&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>🎤 AR/VR/MR Conference. Основы VR-разработки, и почему бизнесу об этом тоже надо знать</title>
+   <link href="http://localhost:4000/2017/06/08/talks-arvrmr-conf"/>
+   <updated>2017-06-08T00:00:00+04:00</updated>
+   <id>http://localhost:4000/2017/06/08/talks-arvrmr-conf</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://ar-conf.ru/ru/program&quot;&gt;https://ar-conf.ru/ru/program&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ar-conf.ru/ru/speakers&quot;&gt;https://ar-conf.ru/ru/speakers&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>🎤 РИФ+КИБ 2017. VR-приложение. Как избежать культурного шока</title>
+   <link href="http://localhost:4000/2017/04/20/talks-rif-kib"/>
+   <updated>2017-04-20T00:00:00+04:00</updated>
+   <id>http://localhost:4000/2017/04/20/talks-rif-kib</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://2017.russianinternetforum.ru/program/4315/&quot;&gt;http://2017.russianinternetforum.ru/program/4315/&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>🎤 Стачка. Первое VR приложение. Как избежать культурного шока</title>
+   <link href="http://localhost:4000/2017/04/15/talks-stachka"/>
+   <updated>2017-04-15T00:00:00+04:00</updated>
+   <id>http://localhost:4000/2017/04/15/talks-stachka</id>
+   <content type="html">&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Xnn61I5CavQ&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://nastachku.ru/archive/2017/index.php?dispatch=products.view&amp;amp;product_id=2237&quot;&gt;https://nastachku.ru/archive/2017/index.php?dispatch=products.view&amp;amp;product_id=2237&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
