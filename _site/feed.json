@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Sidey",
+    "title": "Anton Bravin",
     "home_page_url": "http://localhost:4000/",
     "feed_url": "http://localhost:4000/feed.json",
-    "description": "Simple and minimalistic jekyll blogging theme.",
+    "description": "Unity developer",
     "icon": "http://localhost:4000/apple-touch-icon.png",
     "favicon": "http://localhost:4000/favicon.ico",
     "expired": false,

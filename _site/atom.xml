@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Sidey</title>
+ <title>Anton Bravin</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2021-03-03T22:59:17+04:00</updated>
+ <updated>2021-03-31T11:12:16+04:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
