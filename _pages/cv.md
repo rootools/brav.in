@@ -5,7 +5,7 @@ title: Anton Bravin
 
 ## Summary
 
-Unity-developer and father of a son. Mostly working on mobile F2P games. I have been working on a variety of tasks, but recently I have been specializing in shaders, optimization, Custom Editors/Developer Tools and CI/CD. In my free time I participate in [gamejams](https://rootools.itch.io/) and have developed my own [game](https://rootools.itch.io/masterplan-tycoon). I also speak at conferences. I'm talking about VR and retro games development.
+Unity-developer and father of a son. Mostly working on mobile F2P games. I have been working on a variety of tasks, but recently I have been specializing in shaders, optimization, Custom Editors/Developer Tools and CI/CD. In my free time I participate in [gamejams](https://rootools.itch.io/) and have developed my own [game](https://store.steampowered.com/app/1644500?utm_source=brav_in). I also speak at conferences. I'm talking about VR and retro games development.
 
 
 ## Experience
