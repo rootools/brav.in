@@ -13,3 +13,15 @@ title: "Привет! Я Антон Бравин"
 
 
 А еще я выступаю на [конференциях](/talks) и в целом выгляжу смышленым. По необходимости 🙃
+
+Контакты:
+
+✉️ <a href="mailto:anton.bravin@yandex.ru" target="_blank">e-mail</a>
+
+✈️ <a href="https://t.me/rootools" target="_blank">telegram</a>
+
+👀 <a href="https://www.facebook.com/rootools" target="_blank">facebook</a>
+
+🐦 <a href="https://twitter.com/rootools" target="_blank">twitter</a>
+
+🖼️ <a href="https://www.instagram.com/rootools/" target="_blank">instagram</a>
