@@ -11,9 +11,9 @@ title: "Привет! Я Антон Бравин"
 
 [![](/assets/masterplantycoon_logo.png)](https://store.steampowered.com/app/1644500?utm_source=brav_in)
 
-И небольшой, уютный, тулкит для Unity:
+И небольшой, уютный, [тулкит](https://github.com/rootools/Tokyo) для Unity:
 
-<img src="/assets/tokyo_logo.png" alt="drawing" style="width:400px;"/>
+<a href="https://github.com/rootools/Tokyo" target="_blank"><img src="/assets/tokyo_logo.png" alt="drawing" style="width:400px;"/></a>
 
 А еще я выступаю на [конференциях](/talks) и в целом выгляжу смышленым. По необходимости 🙃
 
