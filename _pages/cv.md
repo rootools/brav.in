@@ -10,10 +10,15 @@ Unity-developer and father of a son. Mostly working on mobile F2P games. I have 
 
 ## Experience
 
-### Unity-developer @ Mobirate
-###### 2018 - Present
+### Indie developer
+###### 2022 - Present
 
-Project development from scratch. Before the soft launch, I mainly worked on architecture and development tools. After that I was engaged in optimization and shaders.
+Fulltime working on my game [Masterplan Tycoon](https://store.steampowered.com/app/1644500?utm_source=brav_in) as a solo developer. I also host the ["Need to Try"](https://podcast.ru/1610095958)(ru) podcast.
+
+### Unity-developer @ Mobirate
+###### 2018 - 2021
+
+[Rovercraft 2](https://play.google.com/store/apps/details?id=com.mobirate.rcr2.gplay) development from scratch. Before the soft launch, I mainly worked on architecture and development tools. After that I was engaged in optimization and shaders.
 
 ### Head of @ ITECH.vr
 ###### 2017 - 2018
