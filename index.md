@@ -17,7 +17,7 @@ title: "Привет! Я Антон Бравин"
 
 Веду подкаст "[Стоит попробовать](https://podcast.ru/1610095958)". Подкаст о том, как, выгорев, я уволился с работы, что бы довести свою игру до релиза и узнать что из этого получиться.
 
-<iframe src="https://anchor.fm/needtotry/embed" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://embed.podcasts.apple.com/us/podcast/%D1%81%D1%82%D0%BE%D0%B8%D1%82-%D0%BF%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C/id1610095958?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="450px" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;" style="width: 100%; max-width: 400px; overflow: hidden; border-radius: 10px; background: transparent;"></iframe>
 
 <div style="height: 20px"></div>
 
