@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-4637f090c2cf53d8",
+  "guid": "d31eb6ef-0a59-497b-8220-dd006175487e",
+  "guidIsPermaLink": "false",
+  "title": "107. Ошибка новичка",
+  "description": "Эпизод о том как я начал делать новый проект. Опять?<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Слушать подкаст везде: <a href=\"https://needtotry.mave.digital/\">https://needtotry.mave.digital/</a></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Бюро Бравина: <a href=\"https://bravin.games/\">https://bravin.games/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bravingames\">https://t.me/bravingames</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я начал делать новый проект. Опять?<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Слушать подкаст везде: <a href=\"https://needtotry.mave.digital/\">https://needtotry.mave.digital/</a></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Бюро Бравина: <a href=\"https://bravin.games/\">https://bravin.games/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bravingames\">https://t.me/bravingames</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том как я начал делать новый проект. Опять?<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Слушать подкаст везде: <a href=\"https://needtotry.mave.digital/\">https://needtotry.mave.digital/</a></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Бюро Бравина: <a href=\"https://bravin.games/\">https://bravin.games/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bravingames\">https://t.me/bravingames</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 30 Sep 2025 07:00:00 GMT",
+  "publishAt": "2025-09-30T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/75bdb333-05a4-4c7f-b6ee-cd4ddad05eca.mp3",
+  "enclosureLength": 31765552,
+  "enclosureType": "audio/mpeg",
+  "duration": "1978",
+  "episode": "107",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/107.mp3",
+    "key": "107.mp3",
+    "sha256": "b1d2ceb4c6b1055b113063552e0d4abc2bc59f8b4d7244d24938d9e303bb67cc",
+    "size": 31765552,
+    "mimeType": "audio/mpeg"
+  }
+}

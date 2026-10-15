@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-55879988a09ee7a4",
+  "guid": "6cef053f-65d1-4e5e-9ea9-623f671f4887",
+  "guidIsPermaLink": "false",
+  "title": "036. DOTween И The International",
+  "description": "Эпизод о крестовом походе на DOTween и еще про киберспорт, доту и интернешнл.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Tokyo: <a href=\"https://github.com/rootools/Tokyo\">https://github.com/rootools/Tokyo</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о крестовом походе на DOTween и еще про киберспорт, доту и интернешнл.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Tokyo: <a href=\"https://github.com/rootools/Tokyo\">https://github.com/rootools/Tokyo</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о крестовом походе на DOTween и еще про киберспорт, доту и интернешнл.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Tokyo: <a href=\"https://github.com/rootools/Tokyo\">https://github.com/rootools/Tokyo</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 25 Oct 2022 07:00:00 GMT",
+  "publishAt": "2022-10-25T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/667aed57-a8b3-44be-a421-a74c6c35d0bd.mp3",
+  "enclosureLength": 27827063,
+  "enclosureType": "audio/mpeg",
+  "duration": "1732",
+  "episode": "036",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/036.mp3",
+    "key": "036.mp3",
+    "sha256": "7a067f632f4e675b024de7c2ef12614325a652e46ef441f72d1fa23d97eb3b9d",
+    "size": 27827063,
+    "mimeType": "audio/mpeg"
+  }
+}

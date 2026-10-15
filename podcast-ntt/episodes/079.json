@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-71cecd1634023172",
+  "guid": "e76d5bcd-47ad-464c-b9b0-4aba2607bfbe",
+  "guidIsPermaLink": "false",
+  "title": "079. Либы, Редактор, ImGUI",
+  "description": "Эпизод об уроках прототипирования, а так же о РЕДАКТОРЕ для моего фреймворка.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Masterplan Tycoon(EGS): <a href=\"https://store.epicgames.com/ru/p/masterplan-tycoon-379d81\">https://store.epicgames.com/ru/p/masterplan-tycoon-379d81</a></p><p>Masterplan Tycoon(GOG): <a href=\"https://www.gog.com/en/game/masterplan_tycoon\">https://www.gog.com/en/game/masterplan_tycoon</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод об уроках прототипирования, а так же о РЕДАКТОРЕ для моего фреймворка.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Masterplan Tycoon(EGS): <a href=\"https://store.epicgames.com/ru/p/masterplan-tycoon-379d81\">https://store.epicgames.com/ru/p/masterplan-tycoon-379d81</a></p><p>Masterplan Tycoon(GOG): <a href=\"https://www.gog.com/en/game/masterplan_tycoon\">https://www.gog.com/en/game/masterplan_tycoon</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод об уроках прототипирования, а так же о РЕДАКТОРЕ для моего фреймворка.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Masterplan Tycoon(EGS): <a href=\"https://store.epicgames.com/ru/p/masterplan-tycoon-379d81\">https://store.epicgames.com/ru/p/masterplan-tycoon-379d81</a></p><p>Masterplan Tycoon(GOG): <a href=\"https://www.gog.com/en/game/masterplan_tycoon\">https://www.gog.com/en/game/masterplan_tycoon</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 02 Apr 2024 07:00:00 GMT",
+  "publishAt": "2024-04-02T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/10020164-44a4-4bb7-a104-84748bb914af.mp3",
+  "enclosureLength": 40339213,
+  "enclosureType": "audio/mpeg",
+  "duration": "2515",
+  "episode": "079",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/079.mp3",
+    "key": "079.mp3",
+    "sha256": "0a75564fbc495fd1b1e1512d2502e1458f52def21fc80e5e22431b1d08ff7b36",
+    "size": 40339213,
+    "mimeType": "audio/mpeg"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-e6849ed6b3a1fc57",
+  "guid": "5f76377c-e1d1-479f-8229-20acd41ca277",
+  "guidIsPermaLink": "false",
+  "title": "056. Обзор на лето",
+  "description": "Эпизод о том как я провел лето. Получилось на пол странички, но из этого получиться несколько тематических выпусков. Ах, да, еще немного про Baldur's Gate 3.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я провел лето. Получилось на пол странички, но из этого получиться несколько тематических выпусков. Ах, да, еще немного про Baldur's Gate 3.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том как я провел лето. Получилось на пол странички, но из этого получиться несколько тематических выпусков. Ах, да, еще немного про Baldur's Gate 3.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 05 Sep 2023 07:00:00 GMT",
+  "publishAt": "2023-09-05T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/b66310b9-d189-4389-80f0-4c3a3883a8d7.mp3",
+  "enclosureLength": 15314025,
+  "enclosureType": "audio/mpeg",
+  "duration": "949",
+  "episode": "056",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/056.mp3",
+    "key": "056.mp3",
+    "sha256": "5cbb035a91124cbe1448e3b02f781203484e361900f19f605528c8fb1e05ebfc",
+    "size": 15314025,
+    "mimeType": "audio/mpeg"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-676083f9862eb1b7",
+  "guid": "03b1a581-8352-4890-aeb9-38155f9513c5",
+  "guidIsPermaLink": "false",
+  "title": "059. Unity даёт заднюю, а я оптимизирую байты",
+  "description": "Эпизод о том к чему пришла Unity за прошедшую неделю. Во второй части я расскажу как я складывал байтики в памяти и на какие мысли меня это натолкнуло.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Masterplan Tycoon(EGS): <a href=\"https://store.epicgames.com/ru/p/masterplan-tycoon-379d81\">https://store.epicgames.com/ru/p/masterplan-tycoon-379d81</a></p><p>Masterplan Tycoon(GOG): <a href=\"https://www.gog.com/en/game/masterplan_tycoon\">https://www.gog.com/en/game/masterplan_tycoon</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том к чему пришла Unity за прошедшую неделю. Во второй части я расскажу как я складывал байтики в памяти и на какие мысли меня это натолкнуло.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Masterplan Tycoon(EGS): <a href=\"https://store.epicgames.com/ru/p/masterplan-tycoon-379d81\">https://store.epicgames.com/ru/p/masterplan-tycoon-379d81</a></p><p>Masterplan Tycoon(GOG): <a href=\"https://www.gog.com/en/game/masterplan_tycoon\">https://www.gog.com/en/game/masterplan_tycoon</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том к чему пришла Unity за прошедшую неделю. Во второй части я расскажу как я складывал байтики в памяти и на какие мысли меня это натолкнуло.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Masterplan Tycoon(EGS): <a href=\"https://store.epicgames.com/ru/p/masterplan-tycoon-379d81\">https://store.epicgames.com/ru/p/masterplan-tycoon-379d81</a></p><p>Masterplan Tycoon(GOG): <a href=\"https://www.gog.com/en/game/masterplan_tycoon\">https://www.gog.com/en/game/masterplan_tycoon</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 26 Sep 2023 07:00:00 GMT",
+  "publishAt": "2023-09-26T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/5f186ba3-01e5-4c39-bf47-1eac88575544.mp3",
+  "enclosureLength": 32292658,
+  "enclosureType": "audio/mpeg",
+  "duration": "2010",
+  "episode": "059",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/059.mp3",
+    "key": "059.mp3",
+    "sha256": "34be53bb42ec77b337a9dad17e64f2295f046385c6bad93cd85d03168b730ece",
+    "size": 32292658,
+    "mimeType": "audio/mpeg"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-06692bddbc3cb139",
+  "guid": "6dde4bec-52e3-433e-b6f0-2a9654c92afa",
+  "guidIsPermaLink": "false",
+  "title": "037. Генерированное меню и Подписки",
+  "description": "Эпизод о том как я генерировал меню строительства. А так же анбоксинг подписок. Простите.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я генерировал меню строительства. А так же анбоксинг подписок. Простите.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том как я генерировал меню строительства. А так же анбоксинг подписок. Простите.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 01 Nov 2022 07:00:00 GMT",
+  "publishAt": "2022-11-01T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/2a6a364e-520f-4993-8b8d-444e281fe211.mp3",
+  "enclosureLength": 22551682,
+  "enclosureType": "audio/mpeg",
+  "duration": "1402",
+  "episode": "037",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/037.mp3",
+    "key": "037.mp3",
+    "sha256": "c843830ef95755fd7af0db7efbe611df1d9831f86a9bea8cdddc8633690f631f",
+    "size": 22551682,
+    "mimeType": "audio/mpeg"
+  }
+}

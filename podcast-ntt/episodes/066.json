@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-06dd71b71e84fdda",
+  "guid": "4fd7b937-8a11-4fa6-842a-33063caf9bd8",
+  "guidIsPermaLink": "false",
+  "title": "066. Unity 6",
+  "description": "Эпизод о том как я Unite смотрел.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Masterplan Tycoon(EGS): <a href=\"https://store.epicgames.com/ru/p/masterplan-tycoon-379d81\">https://store.epicgames.com/ru/p/masterplan-tycoon-379d81</a></p><p>Masterplan Tycoon(GOG): <a href=\"https://www.gog.com/en/game/masterplan_tycoon\">https://www.gog.com/en/game/masterplan_tycoon</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я Unite смотрел.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Masterplan Tycoon(EGS): <a href=\"https://store.epicgames.com/ru/p/masterplan-tycoon-379d81\">https://store.epicgames.com/ru/p/masterplan-tycoon-379d81</a></p><p>Masterplan Tycoon(GOG): <a href=\"https://www.gog.com/en/game/masterplan_tycoon\">https://www.gog.com/en/game/masterplan_tycoon</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том как я Unite смотрел.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Masterplan Tycoon(EGS): <a href=\"https://store.epicgames.com/ru/p/masterplan-tycoon-379d81\">https://store.epicgames.com/ru/p/masterplan-tycoon-379d81</a></p><p>Masterplan Tycoon(GOG): <a href=\"https://www.gog.com/en/game/masterplan_tycoon\">https://www.gog.com/en/game/masterplan_tycoon</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 21 Nov 2023 07:00:00 GMT",
+  "publishAt": "2023-11-21T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/2887825c-de11-4f19-b733-2b9faf0e11c3.mp3",
+  "enclosureLength": 30431925,
+  "enclosureType": "audio/mpeg",
+  "duration": "1896",
+  "episode": "066",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/066.mp3",
+    "key": "066.mp3",
+    "sha256": "14b6afc46787d1c00ae287998380acac398b23772ea2dd00335cfbb625b754ab",
+    "size": 30431925,
+    "mimeType": "audio/mpeg"
+  }
+}

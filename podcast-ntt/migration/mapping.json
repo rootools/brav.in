@@ -1,0 +1,1632 @@
+{
+  "source": "migration/source.xml",
+  "audioRoot": "--audio-root",
+  "entries": [
+    {
+      "stableId": "episode-7861b928b5847614",
+      "guid": "5021bb72-be9f-4df7-aabf-8733be46ccf2",
+      "audioPath": "128.mp3",
+      "status": "matched",
+      "sha256": "1b5638c8536cc55f7672a00443f593d698af42710c3756c77ad6564d55f11463",
+      "size": 39679351,
+      "durationSeconds": 2473,
+      "title": "128",
+      "discrepancies": [
+        "title: RSS=128. Два в седьмой; ID3=128"
+      ]
+    },
+    {
+      "stableId": "episode-cb2b50c0ba52505c",
+      "guid": "acc25a91-5a35-463f-8a33-2237efbbaa35",
+      "audioPath": "127.mp3",
+      "status": "matched",
+      "sha256": "ae17272df5b8029fb4b3421fa4b790dbed8765df802ee5135ea4a461bc213957",
+      "size": 34393302,
+      "durationSeconds": 2144,
+      "title": "127",
+      "discrepancies": [
+        "title: RSS=127. Про любопытство или 15/85; ID3=127"
+      ]
+    },
+    {
+      "stableId": "episode-58418bf025121ecb",
+      "guid": "28397d44-b4c4-435c-86ca-0cad932b6284",
+      "audioPath": "126.mp3",
+      "status": "matched",
+      "sha256": "329b1d0cc741ea78648b75d9a92e9ad0ccd5e6bf4a4e3115cab266a9f27705ea",
+      "size": 37000035,
+      "durationSeconds": 2308,
+      "title": "126",
+      "discrepancies": [
+        "title: RSS=126. Пи; ID3=126"
+      ]
+    },
+    {
+      "stableId": "episode-31de7df4c327289c",
+      "guid": "1eb51466-0bd1-43c3-ae81-bb9f9bf5344e",
+      "audioPath": "125.mp3",
+      "status": "matched",
+      "sha256": "4d71edcf07adf5707067ac34c55790a7c4678f9e23af253860747249b61e5514",
+      "size": 29097764,
+      "durationSeconds": 1814,
+      "title": "125",
+      "discrepancies": [
+        "title: RSS=125. Нашы игры; ID3=125"
+      ]
+    },
+    {
+      "stableId": "episode-fb036d8aa609d16a",
+      "guid": "aad63e13-1a43-4770-a8e6-f230d43f9662",
+      "audioPath": "124.mp3",
+      "status": "matched",
+      "sha256": "20fba2df54aefd9b44100871d3db11698b02a5cd40bc7ea8f4f13b503955666e",
+      "size": 40341676,
+      "durationSeconds": 2515,
+      "title": "124",
+      "discrepancies": [
+        "title: RSS=124. Софт не нужен!; ID3=124"
+      ]
+    },
+    {
+      "stableId": "episode-a1716955414feabf",
+      "guid": "8b2ca393-1061-4c3e-82cd-a541722e5749",
+      "audioPath": "123.mp3",
+      "status": "matched",
+      "sha256": "5c81e46debac48e8c10c678ea1fad75f4ae49c59e08c30af06c08a18fad78ed6",
+      "size": 42306623,
+      "durationSeconds": 2638,
+      "title": "123",
+      "discrepancies": [
+        "title: RSS=123. Раз, два, три!; ID3=123"
+      ]
+    },
+    {
+      "stableId": "episode-12ae2f0cf47ebffa",
+      "guid": "31dd4dd6-97ee-4be3-9336-7a406cc1a565",
+      "audioPath": "122.mp3",
+      "status": "matched",
+      "sha256": "3951a9da6f325b7a9906a5ea72b12f81363b41631741df3377b14c396d67bbee",
+      "size": 39676996,
+      "durationSeconds": 2473,
+      "title": "122",
+      "discrepancies": [
+        "title: RSS=122. Ваш недельный лимит; ID3=122"
+      ]
+    },
+    {
+      "stableId": "episode-c139a9b3e66b7f9a",
+      "guid": "93d9003f-aa3c-4a78-9ac7-19ab47991c1c",
+      "audioPath": "121.mp3",
+      "status": "matched",
+      "sha256": "f7fd850c7bef250f7559b73268a0e2b0cedbeaaa89a5ff02f5598e576941f71c",
+      "size": 37685604,
+      "durationSeconds": 2350,
+      "title": "121",
+      "discrepancies": [
+        "title: RSS=121. Квенюшка; ID3=121"
+      ]
+    },
+    {
+      "stableId": "episode-ad8c7c5a7288b076",
+      "guid": "4f7bd0da-ca68-4f61-8685-e650c8972f62",
+      "audioPath": "120.mp3",
+      "status": "matched",
+      "sha256": "514875c3d29cc0f69454f4293c9c4b82097969e5022ea0571bedfbbd92fa4e57",
+      "size": 40336614,
+      "durationSeconds": 2515,
+      "title": "120",
+      "discrepancies": [
+        "title: RSS=120. Эй, Дисней!; ID3=120"
+      ]
+    },
+    {
+      "stableId": "episode-83af4242a7a3a3ee",
+      "guid": "3706dcd2-bdba-49c5-a2f5-1351f6f5ce22",
+      "audioPath": "119.mp3",
+      "status": "matched",
+      "sha256": "34786d82f5c9e00adfaf790830e116a851be46dfbb44b96ba290cd31e8de66e0",
+      "size": 24510652,
+      "durationSeconds": 1526,
+      "title": "119",
+      "discrepancies": [
+        "title: RSS=119. 588 лайков; ID3=119"
+      ]
+    },
+    {
+      "stableId": "episode-bb554ce99adeee3f",
+      "guid": "7d3137c8-4459-4e94-9e01-c25f1414cc41",
+      "audioPath": "118.mp3",
+      "status": "matched",
+      "sha256": "7009630c6e4d01cbe8b8ef3f701d8d79fbdba8b383d7bc79ad8cdf162a376e6b",
+      "size": 25195113,
+      "durationSeconds": 1566,
+      "title": "118",
+      "discrepancies": [
+        "title: RSS=118. Смертельная Гонка 2000; ID3=118"
+      ]
+    },
+    {
+      "stableId": "episode-ab92e73def2e5928",
+      "guid": "c48c0f89-6b44-43c3-8964-4fc5363eda2e",
+      "audioPath": "117.mp3",
+      "status": "matched",
+      "sha256": "0e20c345e59eaf4cc339462fa8b94c649c468cc0299d7eff93ea88b0a44c820d",
+      "size": 35718688,
+      "durationSeconds": 2226,
+      "title": "117",
+      "discrepancies": [
+        "title: RSS=117. Галя, у нас отмена!; ID3=117"
+      ]
+    },
+    {
+      "stableId": "episode-6dd217b86b4eacb0",
+      "guid": "738fcd94-d46c-4c12-a3c2-d9b2df2fb9a8",
+      "audioPath": "116.mp3",
+      "status": "matched",
+      "sha256": "e5cf596600aabec199bfe6dd2bafd67faf89b53ce8f3b3a2808c2477ea4f077e",
+      "size": 28442905,
+      "durationSeconds": 1773,
+      "title": "116",
+      "discrepancies": [
+        "title: RSS=116. Компы; ID3=116"
+      ]
+    },
+    {
+      "stableId": "episode-3f985bc61a61d40b",
+      "guid": "bca3035f-bd17-42b1-b111-97c7361699a5",
+      "audioPath": "115.mp3",
+      "status": "matched",
+      "sha256": "4a6decc59a9c19a921ea024325fa324a738fa1d6499188f30fddcf270a69c482",
+      "size": 27824435,
+      "durationSeconds": 1731,
+      "title": "115",
+      "discrepancies": [
+        "title: RSS=115. Арменфильм представляет; ID3=115"
+      ]
+    },
+    {
+      "stableId": "episode-c2d50f149e7d0415",
+      "guid": "4de0c0d4-8414-446b-bddb-fb9ac64175b6",
+      "audioPath": "114.mp3",
+      "status": "matched",
+      "sha256": "8ea86dd26b7f6fed40ef79f9c4ea630ba62b4d859fbfb1fa2ab4dcd3fd5ce38b",
+      "size": 20538614,
+      "durationSeconds": 1278,
+      "title": "114",
+      "discrepancies": [
+        "title: RSS=114. Итоги 2025; ID3=114"
+      ]
+    },
+    {
+      "stableId": "episode-1e60f60b7b2819f4",
+      "guid": "4d37b3c0-1c2f-4a43-ab19-0836ba894325",
+      "audioPath": "113.mp3",
+      "status": "matched",
+      "sha256": "55d3debc5d0ffdad8d7f2db982182371e949ec068473ea2654595ee565b8bcc9",
+      "size": 44939608,
+      "durationSeconds": 2803,
+      "title": "113",
+      "discrepancies": [
+        "title: RSS=113. Книги 2025; ID3=113"
+      ]
+    },
+    {
+      "stableId": "episode-4a651ed1a28e12b6",
+      "guid": "c8ad7f6e-0c84-4597-83f1-c339accc938a",
+      "audioPath": "112.mp3",
+      "status": "matched",
+      "sha256": "54bc52f0f36ce334bfa5cecd205d50d937ffe4cab0f8fb1d6c9bfdcb08529b4d",
+      "size": 24354547,
+      "durationSeconds": 1516,
+      "title": "112",
+      "discrepancies": [
+        "title: RSS=112. Системность и долги; ID3=112"
+      ]
+    },
+    {
+      "stableId": "episode-c1c3a767d001d9c2",
+      "guid": "5d082a9f-e23b-499f-8d72-3032958acee3",
+      "audioPath": "111.mp3",
+      "status": "matched",
+      "sha256": "fba1a724ce2fd74e5bf11c8fb666adf5cf92bac7fd54e5955cdc7f4e550f14de",
+      "size": 29108785,
+      "durationSeconds": 1814,
+      "title": "111",
+      "discrepancies": [
+        "title: RSS=111. Музыка в играх и не только; ID3=111"
+      ]
+    },
+    {
+      "stableId": "episode-87ebec568015136c",
+      "guid": "ca8e3b00-0456-4474-8ca4-55be914a0957",
+      "audioPath": "110.mp3",
+      "status": "matched",
+      "sha256": "7dea2ebf834cbf93344f6c3f5d9d990146a0e449131c3892d1fdd40b80aeb142",
+      "size": 37026285,
+      "durationSeconds": 2308,
+      "title": "110",
+      "discrepancies": [
+        "title: RSS=110. Грибы, камни, гейм-дизайн; ID3=110"
+      ]
+    },
+    {
+      "stableId": "episode-fe6e4a8d5950c367",
+      "guid": "672365a6-294b-4106-85f7-6be99f1fb71b",
+      "audioPath": "109.mp3",
+      "status": "matched",
+      "sha256": "2df7c70cbde013f9dbc768808164ca52b3981a3b0a6782a7fa91c02fa44bc4a8",
+      "size": 29114521,
+      "durationSeconds": 1814,
+      "title": "109",
+      "discrepancies": [
+        "title: RSS=109. Fellowship; ID3=109"
+      ]
+    },
+    {
+      "stableId": "episode-fd1197543558c801",
+      "guid": "ef6a6765-5161-4978-a7ee-5fc48cb010cc",
+      "audioPath": "108.mp3",
+      "status": "matched",
+      "sha256": "e0cef6fb5e30bf2c40dd1f5f59e0340b45dae00ebff418877d66a26851a3e6ef",
+      "size": 23836106,
+      "durationSeconds": 1484,
+      "title": "108",
+      "discrepancies": [
+        "title: RSS=108. Как я чуть Unity не стал; ID3=108"
+      ]
+    },
+    {
+      "stableId": "episode-4637f090c2cf53d8",
+      "guid": "d31eb6ef-0a59-497b-8220-dd006175487e",
+      "audioPath": "107.mp3",
+      "status": "matched",
+      "sha256": "b1d2ceb4c6b1055b113063552e0d4abc2bc59f8b4d7244d24938d9e303bb67cc",
+      "size": 31765552,
+      "durationSeconds": 1979,
+      "title": "107",
+      "discrepancies": [
+        "title: RSS=107. Ошибка новичка; ID3=107"
+      ]
+    },
+    {
+      "stableId": "episode-e58035bcaed61486",
+      "guid": "34277644-28db-4184-be38-88679cf71494",
+      "audioPath": "106.mp3",
+      "status": "matched",
+      "sha256": "a41a6c5852b2b931bda38673384f07fcebf795b33dac11814eb394a960ad17b5",
+      "size": 26492944,
+      "durationSeconds": 1649,
+      "title": "106",
+      "discrepancies": [
+        "title: RSS=106. Дурацкий эпизод; ID3=106"
+      ]
+    },
+    {
+      "stableId": "episode-e463e6a4ef7bea7c",
+      "guid": "29e84d99-174b-43ad-b715-59e624dc5600",
+      "audioPath": "105.mp3",
+      "status": "matched",
+      "sha256": "1fbd592a8c8133354fbb9ecb936ffde487f742e5d035e8a1dc85622e4d6f03c1",
+      "size": 44294818,
+      "durationSeconds": 2762,
+      "title": "105",
+      "discrepancies": [
+        "title: RSS=105. Делаем свет; ID3=105"
+      ]
+    },
+    {
+      "stableId": "episode-5139a49e8f0f3de7",
+      "guid": "bbeb6ef6-3ad6-43e7-b7ca-5bc90de0f0ab",
+      "audioPath": "104.mp3",
+      "status": "matched",
+      "sha256": "ab63e1d1f4e3391a5a85ac6788b76a41788fddad5b714b1d8809509943bf6ba6",
+      "size": 33070356,
+      "durationSeconds": 2061,
+      "title": "104",
+      "discrepancies": [
+        "title: RSS=104. NativeAOT; ID3=104"
+      ]
+    },
+    {
+      "stableId": "episode-e12ebe7cbe47f6da",
+      "guid": "ea6795a6-da8c-49d4-9d03-9212ed6fe90b",
+      "audioPath": "103.mp3",
+      "status": "matched",
+      "sha256": "29b205516fadbb023f4a25263dd5137380fb2af7e08826c2ad28d0c1f88c7bcd",
+      "size": 19888245,
+      "durationSeconds": 1237,
+      "title": "103",
+      "discrepancies": [
+        "title: RSS=103. В моем доме открыли озон!; ID3=103"
+      ]
+    },
+    {
+      "stableId": "episode-67a3906f98cabd60",
+      "guid": "935f98fc-c0e0-4a83-9ac6-c9bff705da73",
+      "audioPath": "102.mp3",
+      "status": "matched",
+      "sha256": "79eb5fc82108782b0879fbb278fe60972f3d10680b701ff59924b1b2444fe84d",
+      "size": 41697486,
+      "durationSeconds": 2597,
+      "title": "102",
+      "discrepancies": [
+        "title: RSS=102. Сколько осталось денег?; ID3=102"
+      ]
+    },
+    {
+      "stableId": "episode-855236c281e66bff",
+      "guid": "32317015-716e-45da-8a38-b44e5e8b266a",
+      "audioPath": "101.mp3",
+      "status": "matched",
+      "sha256": "12bf2b6a189f472900c22450cd176b77f3067d6f96ca1a4fa1214e14006149cb",
+      "size": 52884350,
+      "durationSeconds": 3298,
+      "title": "101",
+      "discrepancies": [
+        "title: RSS=101. Свой UI и Clair Obscur; ID3=101"
+      ]
+    },
+    {
+      "stableId": "episode-8104c9b5a38f4996",
+      "guid": "e4f839ec-5816-44e2-881a-e4f3dea37303",
+      "audioPath": "100.mp3",
+      "status": "matched",
+      "sha256": "0b9070ce09c5ffbea9db7523e23e1a5faf713c9f8575ef43dffb1a8bad35487c",
+      "size": 44299610,
+      "durationSeconds": 2762,
+      "title": "100",
+      "discrepancies": [
+        "title: RSS=100. Уайб коудинг; ID3=100"
+      ]
+    },
+    {
+      "stableId": "episode-4a3595ad9e035fe2",
+      "guid": "28dcef2f-3c57-4f46-97db-be33e1438c79",
+      "audioPath": "099.mp3",
+      "status": "matched",
+      "sha256": "aeaa84e0dad9388d2dd563b0cd23a5a2cc6d305ac9443638746233d3789f1b91",
+      "size": 37058493,
+      "durationSeconds": 2308,
+      "title": "099",
+      "discrepancies": [
+        "title: RSS=099. Как я AI использую; ID3=099"
+      ]
+    },
+    {
+      "stableId": "episode-4be5cca3d2bf4862",
+      "guid": "c9361f8c-1a81-416a-a0b2-3fbf4acda2ac",
+      "audioPath": "098.mp3",
+      "status": "matched",
+      "sha256": "91d059d37f1671c5b93db35416dff9b69f9579ea784a51c8d95254448df8e62e",
+      "size": 37714231,
+      "durationSeconds": 2350,
+      "title": "098",
+      "discrepancies": [
+        "title: RSS=098. Sprite Packer; ID3=098"
+      ]
+    },
+    {
+      "stableId": "episode-fb8a36ce830a7194",
+      "guid": "20094ac8-f55c-4a01-a791-0935be2474bc",
+      "audioPath": "097.mp3",
+      "status": "matched",
+      "sha256": "da42aa1f9d6d12c86f72551e612aa83c8bbbc908bda4504f1f20934d594bbf8b",
+      "size": 30969343,
+      "durationSeconds": 1928,
+      "title": "097",
+      "discrepancies": [
+        "title: RSS=097. Возможно, криминал; ID3=097"
+      ]
+    },
+    {
+      "stableId": "episode-21a0f9de94c3505f",
+      "guid": "7bb7c1d3-32eb-4e35-978d-cd44503e7847",
+      "audioPath": "096.mp3",
+      "status": "matched",
+      "sha256": "0bbb5950d4fc86ae2ab35253bf2756c0e9d3d04dd0ec77a8140a9fbbe834f048",
+      "size": 35217534,
+      "durationSeconds": 2192,
+      "title": "096",
+      "discrepancies": [
+        "title: RSS=096. MSBuild, Сохранения, UI; ID3=096"
+      ]
+    },
+    {
+      "stableId": "episode-5e537b14cdcd7c77",
+      "guid": "df12b87b-7e8f-40b2-97d8-593faba1cc4c",
+      "audioPath": "095.mp3",
+      "status": "matched",
+      "sha256": "23da93bbc98171db37e550935d808f966a81731729506efdb8ec5adbfedecca3",
+      "size": 33082894,
+      "durationSeconds": 2061,
+      "title": "095",
+      "discrepancies": [
+        "title: RSS=095. Первый шейдер; ID3=095"
+      ]
+    },
+    {
+      "stableId": "episode-943da7f3df91212a",
+      "guid": "5e6abf4f-4be5-41b0-8fa7-a164c989f6db",
+      "audioPath": "094.mp3",
+      "status": "matched",
+      "sha256": "a71cc3a036cb4ce919e06554f340759309f817cd787b9b48597ddae96d371554",
+      "size": 27807745,
+      "durationSeconds": 1731,
+      "title": "094",
+      "discrepancies": [
+        "title: RSS=094. Индиана Джонс; ID3=094"
+      ]
+    },
+    {
+      "stableId": "episode-25302aba5fa0c41e",
+      "guid": "c52a2b61-2fcf-4e5d-8a2d-1a89f113e8fc",
+      "audioPath": "093.mp3",
+      "status": "matched",
+      "sha256": "6404a7c74498bd11bca8d80839375485314339523da131d483b6f74e6d9c12f0",
+      "size": 35732072,
+      "durationSeconds": 2226,
+      "title": "093",
+      "discrepancies": [
+        "title: RSS=093. Все переписал; ID3=093"
+      ]
+    },
+    {
+      "stableId": "episode-c7b1c9ca2b2e299b",
+      "guid": "4853de9e-fef2-4dfd-96d3-eec20262751d",
+      "audioPath": "092.mp3",
+      "status": "matched",
+      "sha256": "ff0d50f0de6dc763d7eba589e6d2f412e8c6389ab285c99ad5995ba2930df066",
+      "size": 24352537,
+      "durationSeconds": 1516,
+      "title": "092",
+      "discrepancies": [
+        "title: RSS=092. Запекание; ID3=092"
+      ]
+    },
+    {
+      "stableId": "episode-c47e8fd88a1a48ef",
+      "guid": "0be4eeb2-4e3b-488d-be11-cef148e040f3",
+      "audioPath": "091.mp3",
+      "status": "matched",
+      "sha256": "b49dafed0cc793ed41c6a838f4a90d2d05acf067929b20835bae22e92e7ca016",
+      "size": 23840630,
+      "durationSeconds": 1484,
+      "title": "091",
+      "discrepancies": [
+        "title: RSS=091. Итоги 2024; ID3=091"
+      ]
+    },
+    {
+      "stableId": "episode-4c67eb87f040e85b",
+      "guid": "6f60dcd7-2372-480b-bcbc-91483d5dd197",
+      "audioPath": "090.mp3",
+      "status": "matched",
+      "sha256": "4f7ae73bf37445651f414b910277d58c818000f474cc78b037b699872e8c0a27",
+      "size": 44948724,
+      "durationSeconds": 2803,
+      "title": "090",
+      "discrepancies": [
+        "title: RSS=090. Книги 2024; ID3=090"
+      ]
+    },
+    {
+      "stableId": "episode-6deb90ac86771375",
+      "guid": "28908e13-ceab-4ebb-9fc9-76cd6aca8418",
+      "audioPath": "089.mp3",
+      "status": "matched",
+      "sha256": "ed6b40ecc6f03c0dc01e81025a1f629433f46dc3b0bfc633be5d0bfd85c7afcf",
+      "size": 25172679,
+      "durationSeconds": 1566,
+      "title": "089",
+      "discrepancies": [
+        "title: RSS=089. Грид это не Рект; ID3=089"
+      ]
+    },
+    {
+      "stableId": "episode-c3444e4f664c3c76",
+      "guid": "41eb9247-74f0-4214-8f3b-8cf6e59f7130",
+      "audioPath": "088.mp3",
+      "status": "matched",
+      "sha256": "e64cd1e44f23e2a54f4dc91f09658a7ee6dd6699fd31d5e46ba98cc37a45f7a9",
+      "size": 23858956,
+      "durationSeconds": 1484,
+      "title": "088",
+      "discrepancies": [
+        "title: RSS=088. Блэк Опс Шесть; ID3=088"
+      ]
+    },
+    {
+      "stableId": "episode-2a6f5e1a33353199",
+      "guid": "87e2fe5b-4dc3-4bcb-819b-e9d51c49e0ea",
+      "audioPath": "087.mp3",
+      "status": "matched",
+      "sha256": "fab84a0486e157c06a4f19995f2999d85f127d1190af6eeea74e77a13627991d",
+      "size": 29778761,
+      "durationSeconds": 1855,
+      "title": "087",
+      "discrepancies": [
+        "title: RSS=087. Lu a что?; ID3=087"
+      ]
+    },
+    {
+      "stableId": "episode-d35490d11bafdb36",
+      "guid": "553321ac-ba6b-4a41-b747-eaf88564acbb",
+      "audioPath": "086.mp3",
+      "status": "matched",
+      "sha256": "4300053fb38d1cbff16dd72dfb0a35e8bc009602be852ae87b2c5146e764f24a",
+      "size": 41003676,
+      "durationSeconds": 2556,
+      "title": "086",
+      "discrepancies": [
+        "title: RSS=086. Трачу деньги; ID3=086"
+      ]
+    },
+    {
+      "stableId": "episode-1495a3783a68932e",
+      "guid": "65e5cc11-0922-4b05-bf47-fc39d253964c",
+      "audioPath": "085.mp3",
+      "status": "matched",
+      "sha256": "969d409e7b5095962aa90075a1e273010bfd2ae302fd90623b1a3d69d71242a0",
+      "size": 29125406,
+      "durationSeconds": 1814,
+      "title": "085",
+      "discrepancies": [
+        "title: RSS=085. КАРТОЧКИ!; ID3=085"
+      ]
+    },
+    {
+      "stableId": "episode-d91715cbf0246d0d",
+      "guid": "2617b245-9c26-4de8-803c-e96a6049f96e",
+      "audioPath": "084.mp3",
+      "status": "matched",
+      "sha256": "9263bc6738c3605c689c1dc1902b0951dc8ba9b8a8ac1e2d97ab53f4938f6a9e",
+      "size": 14639073,
+      "durationSeconds": 907,
+      "title": "084",
+      "discrepancies": [
+        "title: RSS=084. Обзор на лето #2; ID3=084"
+      ]
+    },
+    {
+      "stableId": "episode-0524f1ce102ca318",
+      "guid": "e34c676e-db1c-46c6-8148-319c053c450f",
+      "audioPath": "083.mp3",
+      "status": "matched",
+      "sha256": "73d6bbe3962c69a4caf57a36a931ea71a0a72688b712be7a9ef4aa0cf658e206",
+      "size": 35724259,
+      "durationSeconds": 2226,
+      "title": "083",
+      "discrepancies": [
+        "title: RSS=083. Пролог, тесты и Docker Hub; ID3=083"
+      ]
+    },
+    {
+      "stableId": "episode-89c1de407f7cf932",
+      "guid": "a94210ff-4ba6-4e4b-8f6a-b548d4e7b33f",
+      "audioPath": "082.mp3",
+      "status": "matched",
+      "sha256": "23f21433128a46b924f67936296994491d555113bbc671a4cc352202b17f9c23",
+      "size": 27795720,
+      "durationSeconds": 1731,
+      "title": "082",
+      "discrepancies": [
+        "title: RSS=082. Мета, Луп, Кор; ID3=082"
+      ]
+    },
+    {
+      "stableId": "episode-b635bb084bbc939c",
+      "guid": "84c2abb7-e44e-4efa-8763-295224d27e2d",
+      "audioPath": "081.mp3",
+      "status": "matched",
+      "sha256": "644e75a1c3397a7c95393ac4333b09c8da9c5cac01cfaaf98b786f8281f4b3ac",
+      "size": 42316601,
+      "durationSeconds": 2638,
+      "title": "081",
+      "discrepancies": [
+        "title: RSS=081. Ушла Эпоха; ID3=081"
+      ]
+    },
+    {
+      "stableId": "episode-815f216f6570e005",
+      "guid": "e79d84db-7df3-4b58-9640-611b1216cf74",
+      "audioPath": "080.mp3",
+      "status": "matched",
+      "sha256": "336f1fa100b1a6287590a2cd5e46e0100e1d87242005b1e6bbfa0b76ee70e35d",
+      "size": 39671537,
+      "durationSeconds": 2473,
+      "title": "080",
+      "discrepancies": [
+        "title: RSS=080. Путешествующий #1; ID3=080"
+      ]
+    },
+    {
+      "stableId": "episode-71cecd1634023172",
+      "guid": "e76d5bcd-47ad-464c-b9b0-4aba2607bfbe",
+      "audioPath": "079.mp3",
+      "status": "matched",
+      "sha256": "0a75564fbc495fd1b1e1512d2502e1458f52def21fc80e5e22431b1d08ff7b36",
+      "size": 40339213,
+      "durationSeconds": 2515,
+      "title": "079",
+      "discrepancies": [
+        "title: RSS=079. Либы, Редактор, ImGUI; ID3=079"
+      ]
+    },
+    {
+      "stableId": "episode-116ff5e372063bfa",
+      "guid": "8746f336-1478-4c9b-b762-2c33bf7d3a98",
+      "audioPath": "078.mp3",
+      "status": "matched",
+      "sha256": "708eca080cf243a24755ef2dc28984bd153a1916f35ff943ce73b0493e8ca910",
+      "size": 39695677,
+      "durationSeconds": 2473,
+      "title": "078",
+      "discrepancies": [
+        "title: RSS=078. 4070 Ti Super и Hogwarts Legacy; ID3=078"
+      ]
+    },
+    {
+      "stableId": "episode-898de5647ab142c4",
+      "guid": "97f7d2e7-0c57-47cb-921f-26e16eab1153",
+      "audioPath": "077.mp3",
+      "status": "matched",
+      "sha256": "43dc6a4e49548a37d8dc88c4c2f3d2a5a22ab80d10fab35ce98964ef44a89807",
+      "size": 29652133,
+      "durationSeconds": 1845,
+      "title": "077",
+      "discrepancies": [
+        "title: RSS=077. Стараюсь не выцветать; ID3=077"
+      ]
+    },
+    {
+      "stableId": "episode-612049e0d660dc42",
+      "guid": "49b258c5-f983-49fc-aad5-1d5426ee8591",
+      "audioPath": "076.mp3",
+      "status": "matched",
+      "sha256": "188b33806a18decc23c8f2f079eaceb4887c27cf5946060a40c48212229ee6fb",
+      "size": 26534176,
+      "durationSeconds": 1649,
+      "title": "076",
+      "discrepancies": [
+        "title: RSS=076. Xbox Developer_Direct и PlayStation State of Play 2024; ID3=076"
+      ]
+    },
+    {
+      "stableId": "episode-ddc85c2e69e5eff3",
+      "guid": "305f5764-a605-43d0-af28-4563f06e7d85",
+      "audioPath": "075.mp3",
+      "status": "matched",
+      "sha256": "4df80983ce499f4e5ec5dac0f9919a7da4dd18604c4bc72f72b1b3987426cb51",
+      "size": 44313814,
+      "durationSeconds": 2762,
+      "title": "075",
+      "discrepancies": [
+        "title: RSS=075. Почему мы врём; ID3=075"
+      ]
+    },
+    {
+      "stableId": "episode-3a0e68026f8d85dd",
+      "guid": "6cad6101-27ae-4866-909d-67537f1ac41f",
+      "audioPath": "074.mp3",
+      "status": "matched",
+      "sha256": "de0090ba0f08bfbf296f929fed077cf3b5a389c636e52e44af4b03767b6bc9b5",
+      "size": 23208159,
+      "durationSeconds": 1443,
+      "title": "074",
+      "discrepancies": [
+        "title: RSS=074. Почему мы разные; ID3=074"
+      ]
+    },
+    {
+      "stableId": "episode-b4fb80ec4559d9bd",
+      "guid": "663e4c20-9f4a-4ad3-ba7e-d2afdde80c6a",
+      "audioPath": "073.mp3",
+      "status": "matched",
+      "sha256": "65421b35085dd2cf984551031b052f7bd31ace5af7ebf2a3eb0d2b2822a04954",
+      "size": 32417004,
+      "durationSeconds": 2020,
+      "title": "073",
+      "discrepancies": [
+        "title: RSS=073. Скейл; ID3=073"
+      ]
+    },
+    {
+      "stableId": "episode-8a8fbeb011f5089f",
+      "guid": "1df44c6a-3fc9-40fa-b1a8-1a5d26c3ff8a",
+      "audioPath": "072.mp3",
+      "status": "matched",
+      "sha256": "2aad3f0ef9902278c64824d166fca304b666eba4f8c6fec94a622da0f420884a",
+      "size": 15954259,
+      "durationSeconds": 989,
+      "title": "072",
+      "discrepancies": [
+        "title: RSS=072. Хрустальный Пиксель; ID3=072"
+      ]
+    },
+    {
+      "stableId": "episode-592e8c9bf61948f4",
+      "guid": "3a6bee36-61f8-4b36-b79b-06aed57b49b8",
+      "audioPath": "071.mp3",
+      "status": "matched",
+      "sha256": "78ef8bdb40a15215c2a8509bc6e1e08d3b46c8e409bad5e1a8340c8b4d636f5b",
+      "size": 27146138,
+      "durationSeconds": 1691,
+      "title": "071",
+      "discrepancies": [
+        "title: RSS=071. Итоги 2023; ID3=071"
+      ]
+    },
+    {
+      "stableId": "episode-1d11dfc9b9c7bdb2",
+      "guid": "1c7dca75-f8f4-4aa3-bfd4-cd6aa907881f",
+      "audioPath": "070.mp3",
+      "status": "matched",
+      "sha256": "3efa01e2f0ca574bc0073aa652563fede9ef823208338bcce95f17550dd953a6",
+      "size": 20557381,
+      "durationSeconds": 1279,
+      "title": "070",
+      "discrepancies": [
+        "title: RSS=070. Закладки в DLL; ID3=070"
+      ]
+    },
+    {
+      "stableId": "episode-aed6247d4ce3bb0d",
+      "guid": "d9b0a386-46e7-4e41-b1a6-dd1026c27c30",
+      "audioPath": "069.mp3",
+      "status": "matched",
+      "sha256": "0f610605e4aa3ad0e3cf2227aa7c6a240f84b0ccdd1a7ccc5eab55dbc045a288",
+      "size": 30443861,
+      "durationSeconds": 1896,
+      "title": "069",
+      "discrepancies": [
+        "title: RSS=069. Книги 2023; ID3=069"
+      ]
+    },
+    {
+      "stableId": "episode-aa9eb61c09a59a27",
+      "guid": "dcff6ca6-e90b-428b-aeac-de699b22c36e",
+      "audioPath": "068.mp3",
+      "status": "matched",
+      "sha256": "0b103295d833cac14db4430b8f915dec0e546110d9d7092f86eccade850242f1",
+      "size": 25174559,
+      "durationSeconds": 1566,
+      "title": "068",
+      "discrepancies": [
+        "title: RSS=068. Загадка потерянных страниц; ID3=068"
+      ]
+    },
+    {
+      "stableId": "episode-8b591f64ba7c9757",
+      "guid": "e8397219-87f5-4764-b8be-72e32abf9b00",
+      "audioPath": "067.mp3",
+      "status": "matched",
+      "sha256": "6322682440aaceb89939082a50def99da4ff94792e1c8dccd2d6eced1db421d1",
+      "size": 21225100,
+      "durationSeconds": 1319,
+      "title": "067",
+      "discrepancies": [
+        "title: RSS=067. Повороты, кривые и кривые повороты; ID3=067"
+      ]
+    },
+    {
+      "stableId": "episode-06dd71b71e84fdda",
+      "guid": "4fd7b937-8a11-4fa6-842a-33063caf9bd8",
+      "audioPath": "066.mp3",
+      "status": "matched",
+      "sha256": "14b6afc46787d1c00ae287998380acac398b23772ea2dd00335cfbb625b754ab",
+      "size": 30431925,
+      "durationSeconds": 1896,
+      "title": "066",
+      "discrepancies": [
+        "title: RSS=066. Unity 6; ID3=066"
+      ]
+    },
+    {
+      "stableId": "episode-9e6aee9486964e33",
+      "guid": "782e04c4-af7f-46a6-8355-2e6cdaf18a7d",
+      "audioPath": "065.mp3",
+      "status": "matched",
+      "sha256": "8453557e4cccd96d00de972a1a4036f0f6eac4672906dc7f1efcd21044cc2d0a",
+      "size": 26494359,
+      "durationSeconds": 1649,
+      "title": "065",
+      "discrepancies": [
+        "title: RSS=065. Свой движок; ID3=065"
+      ]
+    },
+    {
+      "stableId": "episode-53b990d879af380b",
+      "guid": "82fc3638-8420-4a69-84e5-0a50c2399e81",
+      "audioPath": "064.mp3",
+      "status": "matched",
+      "sha256": "375c2627ae554022d454ee0688028ceaa60e5031174a9eafd9974ebc193a34bd",
+      "size": 25155733,
+      "durationSeconds": 1566,
+      "title": "064",
+      "discrepancies": [
+        "title: RSS=064. Байты и Nau Engine; ID3=064"
+      ]
+    },
+    {
+      "stableId": "episode-3a649af344275975",
+      "guid": "cb62d176-dfda-45bf-a93d-3079b3c3c160",
+      "audioPath": "063.mp3",
+      "status": "matched",
+      "sha256": "5da017e2d83bba26793042abd8abaab71f935dc1f7909db79a1f30abed390a1b",
+      "size": 18571623,
+      "durationSeconds": 1154,
+      "title": "063",
+      "discrepancies": [
+        "title: RSS=063. Вектора и Пасфайндинг; ID3=063"
+      ]
+    },
+    {
+      "stableId": "episode-36377c8fe6489f9c",
+      "guid": "a4e48762-a698-497c-9e16-f227c752a173",
+      "audioPath": "062.mp3",
+      "status": "matched",
+      "sha256": "4cbbe47699fd913072990ef53d42891e25aed33e930751e53f9f7adbce885d9a",
+      "size": 37050653,
+      "durationSeconds": 2308,
+      "title": "062",
+      "discrepancies": [
+        "title: RSS=062. Генерация, AI, Профайлинг, Аниме; ID3=062"
+      ]
+    },
+    {
+      "stableId": "episode-8fdc4aa8c8a8e2d8",
+      "guid": "dca11ac2-73bc-47f9-bb37-c7676e3694c8",
+      "audioPath": "061.mp3",
+      "status": "matched",
+      "sha256": "ec7839deed413d8c563c8e5fa08c685df9e393cafaef3c738915171ed17e8381",
+      "size": 24512607,
+      "durationSeconds": 1526,
+      "title": "061",
+      "discrepancies": [
+        "title: RSS=061. Игропром, Цирк и Самиздат; ID3=061"
+      ]
+    },
+    {
+      "stableId": "episode-2b5c497062caab59",
+      "guid": "9368cc0f-70c1-4b80-b7a1-a08e045ef72f",
+      "audioPath": "060.mp3",
+      "status": "matched",
+      "sha256": "9cd9112a8a42fbc20b7196cebcb0a502dd866295904972e1ebdc985c40baa122",
+      "size": 31753639,
+      "durationSeconds": 1979,
+      "title": "060",
+      "discrepancies": [
+        "title: RSS=060. Godot; ID3=060"
+      ]
+    },
+    {
+      "stableId": "episode-676083f9862eb1b7",
+      "guid": "03b1a581-8352-4890-aeb9-38155f9513c5",
+      "audioPath": "059.mp3",
+      "status": "matched",
+      "sha256": "34be53bb42ec77b337a9dad17e64f2295f046385c6bad93cd85d03168b730ece",
+      "size": 32292658,
+      "durationSeconds": 2010,
+      "title": "059",
+      "discrepancies": [
+        "title: RSS=059. Unity даёт заднюю, а я оптимизирую байты; ID3=059"
+      ]
+    },
+    {
+      "stableId": "episode-d0e1079ace7dd374",
+      "guid": "48fa7880-5dc3-4ab2-bd84-2bd307f18eb9",
+      "audioPath": "058.mp3",
+      "status": "matched",
+      "sha256": "7586946d32dcc4130802484d6a9af00bdbbe3d949143d39f5baee3ebcd359e0b",
+      "size": 31111884,
+      "durationSeconds": 1938,
+      "title": "058",
+      "discrepancies": [
+        "title: RSS=058. Налог на Unity; ID3=058"
+      ]
+    },
+    {
+      "stableId": "episode-818f954327ed0b7d",
+      "guid": "e4e08774-e2d3-4380-975a-958f7b9e6fd9",
+      "audioPath": "057.mp3",
+      "status": "matched",
+      "sha256": "554965c378f6efda9e002e15eb5102a96210ec21308a5b06ca3e04065b4a9898",
+      "size": 25852138,
+      "durationSeconds": 1609,
+      "title": "057",
+      "discrepancies": [
+        "title: RSS=057. GoG, EGS и все-все-все; ID3=057"
+      ]
+    },
+    {
+      "stableId": "episode-e6849ed6b3a1fc57",
+      "guid": "5f76377c-e1d1-479f-8229-20acd41ca277",
+      "audioPath": "056.mp3",
+      "status": "matched",
+      "sha256": "5cbb035a91124cbe1448e3b02f781203484e361900f19f605528c8fb1e05ebfc",
+      "size": 15314025,
+      "durationSeconds": 950,
+      "title": "056",
+      "discrepancies": [
+        "title: RSS=056. Обзор на лето; ID3=056"
+      ]
+    },
+    {
+      "stableId": "episode-4abba6b67b0c2a49",
+      "guid": "64496700-6f03-45fc-9216-1e5c76fc4bd8",
+      "audioPath": "055.mp3",
+      "status": "matched",
+      "sha256": "4f93bb4a2801695d6ff38b5508fbd162d65a0ad22f0433d8b85dbbb95f2f337e",
+      "size": 33755505,
+      "durationSeconds": 2104,
+      "title": "055",
+      "discrepancies": [
+        "title: RSS=055. Деньги пришли; ID3=055"
+      ]
+    },
+    {
+      "stableId": "episode-04720b73f2c37af7",
+      "guid": "cd52272b-573f-4e6c-8be4-a8c0e71b7247",
+      "audioPath": "054.mp3",
+      "status": "matched",
+      "sha256": "07c80de589acf97bb5ceda8135c8f4f30ceef8cd2ef21709874013708e84a758",
+      "size": 17277840,
+      "durationSeconds": 1073,
+      "title": "054",
+      "discrepancies": [
+        "title: RSS=054. Синдром самозванца и Джон Уик; ID3=054"
+      ]
+    },
+    {
+      "stableId": "episode-3a030fa896ae8bd3",
+      "guid": "a3f59173-2dd0-4a14-b754-e9e9e6ac0d7e",
+      "audioPath": "053.mp3",
+      "status": "matched",
+      "sha256": "a2ab28293e2439e250b065d29329eecb3cc53c5a8c863ba05ef0b1572285e0b7",
+      "size": 35080979,
+      "durationSeconds": 2186,
+      "title": "053",
+      "discrepancies": [
+        "title: RSS=053. Ludum Dare 53 и ECS; ID3=053"
+      ]
+    },
+    {
+      "stableId": "episode-ba8d894b426c9b23",
+      "guid": "85637f89-482a-4e5d-b767-50a3d36bd746",
+      "audioPath": "052.mp3",
+      "status": "matched",
+      "sha256": "87ed5781335a2d3888329da56579ff430225bc49fe20dd748fbcc3ba0c7a472f",
+      "size": 25853435,
+      "durationSeconds": 1609,
+      "title": "052",
+      "discrepancies": [
+        "title: RSS=052. Деплоил Steam и сцены лечил; ID3=052"
+      ]
+    },
+    {
+      "stableId": "episode-8e62eb8a6bc7b243",
+      "guid": "e268eea4-9d13-4172-90a2-3c83bcf44b29",
+      "audioPath": "051.mp3",
+      "status": "matched",
+      "sha256": "a862c06824cf6b42450cb6e981ace57ea35eef3c57798194efe9f493069e6b52",
+      "size": 25187657,
+      "durationSeconds": 1567,
+      "title": "051",
+      "discrepancies": [
+        "title: RSS=051. За столом сидели мужики и ели; ID3=051"
+      ]
+    },
+    {
+      "stableId": "episode-08a4276e7094d361",
+      "guid": "368fc4d0-5eca-481a-8726-d77ea0df7e85",
+      "audioPath": "050.mp3",
+      "status": "matched",
+      "sha256": "ed6c559f708d91d87c0daba800a7330abfcee427bca7ca3307d989061ee36a86",
+      "size": 27852371,
+      "durationSeconds": 1732,
+      "title": "050",
+      "discrepancies": [
+        "title: RSS=050. Обзор на Москву; ID3=050"
+      ]
+    },
+    {
+      "stableId": "episode-8ad748b126fecaaf",
+      "guid": "852e4691-d553-4e69-a3a9-cab427090983",
+      "audioPath": "049.mp3",
+      "status": "matched",
+      "sha256": "9e6aa26b4d21a3bd1f6ef26dd2c6d49aa6914f9bf3ed2dd81993e2f660c3efd3",
+      "size": 27188212,
+      "durationSeconds": 1692,
+      "title": "049",
+      "discrepancies": [
+        "title: RSS=049. Что-то про цифры, а так же Atomic of Us 3; ID3=049"
+      ]
+    },
+    {
+      "stableId": "episode-02e1c785ef48cdb2",
+      "guid": "afce8f39-3ef8-406d-a28d-9280f2277651",
+      "audioPath": "048.mp3",
+      "status": "matched",
+      "sha256": "e6efff6e5e26f36427b23c7b5dcb2cad909e5fbc1ef06ce29b1ee32b6be4b550",
+      "size": 21214378,
+      "durationSeconds": 1320,
+      "title": "048",
+      "discrepancies": [
+        "title: RSS=048. Релиз!; ID3=048"
+      ]
+    },
+    {
+      "stableId": "episode-91b4e14df6aaa9e9",
+      "guid": "d1b03f6a-09d0-416a-96a1-e19a9f1a589d",
+      "audioPath": "047.mp3",
+      "status": "matched",
+      "sha256": "ee6159b5389227a09f33ba53d565bbad74f6a3229915c14cbb3bcbd417040a2c",
+      "size": 35106859,
+      "durationSeconds": 2186,
+      "title": "047",
+      "discrepancies": [
+        "title: RSS=047. Параметризованный конструктор. Азазель; ID3=047"
+      ]
+    },
+    {
+      "stableId": "episode-b1bcffbe3737227a",
+      "guid": "e9a444dd-e34a-49b7-804a-52e7eaa2ca8a",
+      "audioPath": "046.mp3",
+      "status": "matched",
+      "sha256": "b71c262f2e737cdb9f2f43ff02b66a8c331c3762f0459c49ed05dda3364f2f96",
+      "size": 26519889,
+      "durationSeconds": 1650,
+      "title": "046",
+      "discrepancies": [
+        "title: RSS=046. Своевременная оптимизация. Снова; ID3=046"
+      ]
+    },
+    {
+      "stableId": "episode-4f6b0630cc3e0797",
+      "guid": "44d68852-2d07-404e-889e-22dd762c25e5",
+      "audioPath": "045.mp3",
+      "status": "matched",
+      "sha256": "ae387fb8f63721ee7a9ce88f4400fc8b452e338120a86be257727e8b9fbaea1e",
+      "size": 28516101,
+      "durationSeconds": 1774,
+      "title": "045",
+      "discrepancies": [
+        "title: RSS=045. Смекалка текстурная; ID3=045"
+      ]
+    },
+    {
+      "stableId": "episode-216b712ce7b68a06",
+      "guid": "c8610889-3efe-406a-abc4-ebe38ae3613b",
+      "audioPath": "044.mp3",
+      "status": "matched",
+      "sha256": "b8efd4cd79c5e0e940f111458ee897d14e1feb6d6e3078c98a2effcb65050ae1",
+      "size": 29820817,
+      "durationSeconds": 1856,
+      "title": "044",
+      "discrepancies": [
+        "title: RSS=044. Предрелизная суета и много поделюсек; ID3=044"
+      ]
+    },
+    {
+      "stableId": "episode-57a9ea377889de61",
+      "guid": "5ccb3710-f257-4f88-8c7e-db408ac69b03",
+      "audioPath": "043.mp3",
+      "status": "matched",
+      "sha256": "c11a2f281aac88e3e5faeafb735d215197d6103e77869ca147f6eecb236b0efb",
+      "size": 25831443,
+      "durationSeconds": 1609,
+      "title": "043",
+      "discrepancies": [
+        "title: RSS=043. ИИ и Итоги года; ID3=043"
+      ]
+    },
+    {
+      "stableId": "episode-cf6c14b5a5ea95f4",
+      "guid": "d6c43de2-2765-4827-888a-289c61ea2ab3",
+      "audioPath": "042.mp3",
+      "status": "matched",
+      "sha256": "38aa911a57d2a4d3b3286a89a8ec5552b4d85911e5e7b9220c3635878e07eefc",
+      "size": 21224993,
+      "durationSeconds": 1320,
+      "title": "042",
+      "discrepancies": [
+        "title: RSS=042. Оптимизация и Локализация; ID3=042"
+      ]
+    },
+    {
+      "stableId": "episode-ff9b2e843ea12438",
+      "guid": "a53d20d1-440a-4c8f-bc8f-bc51ceb96a58",
+      "audioPath": "041.mp3",
+      "status": "matched",
+      "sha256": "29e55c9a279a4a89b012ce44c2ef91b220a78658379b10c742791d99b86f746a",
+      "size": 18575606,
+      "durationSeconds": 1155,
+      "title": "041",
+      "discrepancies": [
+        "title: RSS=041. Git LFS и коллайдеры; ID3=041"
+      ]
+    },
+    {
+      "stableId": "episode-60a27827c9d0a2c5",
+      "guid": "334b10ed-3e03-49b8-ad8d-270db1e31b7a",
+      "audioPath": "040.mp3",
+      "status": "matched",
+      "sha256": "571d2c0b4e2316098022d0f799e22e6d8e870076de2e12e4275dbf3a9befb457",
+      "size": 19937057,
+      "durationSeconds": 1238,
+      "title": "040",
+      "discrepancies": [
+        "title: RSS=040. Результаты PC Gaming Show и Баги, баги, баги...; ID3=040"
+      ]
+    },
+    {
+      "stableId": "episode-0b788f78241b9fbb",
+      "guid": "5285cba7-7d87-479c-aa90-58403bc9777c",
+      "audioPath": "039.mp3",
+      "status": "matched",
+      "sha256": "a1637adcf3d89e52a99699ebfb92fd9dabe5bc380c3951ba1e3d92f6ed113eff",
+      "size": 23890456,
+      "durationSeconds": 1485,
+      "title": "039",
+      "discrepancies": [
+        "title: RSS=039. PC Gaming Show; ID3=039"
+      ]
+    },
+    {
+      "stableId": "episode-124e22d653341ee6",
+      "guid": "abd7e56f-c068-4fa7-af99-1b0b325f130b",
+      "audioPath": "038.mp3",
+      "status": "matched",
+      "sha256": "3d356525bb39a2d06ad693f5b94bf5035513d0db12e52c49929e6c8003a9f8f0",
+      "size": 70982388,
+      "durationSeconds": 4428,
+      "title": "038",
+      "discrepancies": [
+        "title: RSS=038. Dungeon & Dragons; ID3=038"
+      ]
+    },
+    {
+      "stableId": "episode-06692bddbc3cb139",
+      "guid": "6dde4bec-52e3-433e-b6f0-2a9654c92afa",
+      "audioPath": "037.mp3",
+      "status": "matched",
+      "sha256": "c843830ef95755fd7af0db7efbe611df1d9831f86a9bea8cdddc8633690f631f",
+      "size": 22551682,
+      "durationSeconds": 1403,
+      "title": "037",
+      "discrepancies": [
+        "title: RSS=037. Генерированное меню и Подписки; ID3=037"
+      ]
+    },
+    {
+      "stableId": "episode-55879988a09ee7a4",
+      "guid": "6cef053f-65d1-4e5e-9ea9-623f671f4887",
+      "audioPath": "036.mp3",
+      "status": "matched",
+      "sha256": "7a067f632f4e675b024de7c2ef12614325a652e46ef441f72d1fa23d97eb3b9d",
+      "size": 27827063,
+      "durationSeconds": 1732,
+      "title": "036",
+      "discrepancies": [
+        "title: RSS=036. DOTween И The International; ID3=036"
+      ]
+    },
+    {
+      "stableId": "episode-fc02150d4e576453",
+      "guid": "9d354a5d-baeb-4fd6-a88f-8f669398c5b9",
+      "audioPath": "035.mp3",
+      "status": "matched",
+      "sha256": "30cd6fab1287b8ef7250a4ce473b452e28e629aca1b043ff575bacf34e43b89c",
+      "size": 30477371,
+      "durationSeconds": 1897,
+      "title": "035",
+      "discrepancies": [
+        "title: RSS=035. Мой Программистский Фэил Фест; ID3=035"
+      ]
+    },
+    {
+      "stableId": "episode-eb0b4f3a57e62b51",
+      "guid": "3533d1f3-6896-4469-813d-fd8b22a75e32",
+      "audioPath": "034.mp3",
+      "status": "matched",
+      "sha256": "fcd3b383d39eb5f1bbe97106b321590eed7db5a13f95683fcdc76f7dbde3a32d",
+      "size": 23880993,
+      "durationSeconds": 1485,
+      "title": "034",
+      "discrepancies": [
+        "title: RSS=034. Steam Next Fest; ID3=034"
+      ]
+    },
+    {
+      "stableId": "episode-4021a8f8d274c94a",
+      "guid": "e66135a4-d62e-4469-9f5c-041c369caedc",
+      "audioPath": "033.mp3",
+      "status": "matched",
+      "sha256": "98d40c4979d832aefc7648af282d1397cdad20cc70ea107832bb27b94deccaf4",
+      "size": 23873856,
+      "durationSeconds": 1485,
+      "title": "033",
+      "discrepancies": [
+        "title: RSS=033. Девлог и Mafia; ID3=033"
+      ]
+    },
+    {
+      "stableId": "episode-1eb35d2f75060ca6",
+      "guid": "d493c04e-7eda-4616-b736-26602575b14d",
+      "audioPath": "032.mp3",
+      "status": "matched",
+      "sha256": "6c6ce2d309495067d0b3cda02bf4119d950cbb4797cc305641d42698a9cf815d",
+      "size": 26511283,
+      "durationSeconds": 1650,
+      "title": "032",
+      "discrepancies": [
+        "title: RSS=032. Enum победил SO и Стагнация ПО; ID3=032"
+      ]
+    },
+    {
+      "stableId": "episode-482655f84ea904fa",
+      "guid": "985344ea-eb5e-4898-95e2-ea35ca9158e6",
+      "audioPath": "031.mp3",
+      "status": "matched",
+      "sha256": "1d62842f773d6953d20c99ed5bd9db60b1f9b6ce454dcfadfc74731fd246e249",
+      "size": 23881877,
+      "durationSeconds": 1485,
+      "title": "031",
+      "discrepancies": [
+        "title: RSS=031. Бюро и Atomic Heart; ID3=031"
+      ]
+    },
+    {
+      "stableId": "episode-1b680b9c2558ae1a",
+      "guid": "11b06d14-0765-4b31-ac3d-17f049ef5520",
+      "audioPath": "030.mp3",
+      "status": "matched",
+      "sha256": "63ff250ce696433d60c780cefa43dcc3dd9ceb80aa1991c60271a18990f16993",
+      "size": 24531620,
+      "durationSeconds": 1527,
+      "title": "030",
+      "discrepancies": [
+        "title: RSS=030. Куда пропали \"школьники\"?; ID3=030"
+      ]
+    },
+    {
+      "stableId": "episode-2d181a5ca1d1b9c9",
+      "guid": "07d1236f-891d-4d32-9b76-5ee74631be32",
+      "audioPath": "029.mp3",
+      "status": "matched",
+      "sha256": "b2499d447770e52d4a11b89fed657e09e5c5459f5d31a201bcf04e851b1344f4",
+      "size": 27850044,
+      "durationSeconds": 1732,
+      "title": "029",
+      "discrepancies": [
+        "title: RSS=029. Стресс и Cyberpunk; ID3=029"
+      ]
+    },
+    {
+      "stableId": "episode-ee9ab6b11c552b9a",
+      "guid": "81eea6a1-8b67-465c-8fb2-1bf3e3ff5838",
+      "audioPath": "028.mp3",
+      "status": "matched",
+      "sha256": "d16ad817465658703d4760ca1a0b28b9ac969ece73c4f4eece7e359feda3de09",
+      "size": 25173392,
+      "durationSeconds": 1567,
+      "title": "028",
+      "discrepancies": [
+        "title: RSS=028. Геймдизайн и Enumы; ID3=028"
+      ]
+    },
+    {
+      "stableId": "episode-3a2ad099a3c9d1d5",
+      "guid": "2e33a3ef-f553-4df9-ac4e-7548b00831eb",
+      "audioPath": "027.mp3",
+      "status": "matched",
+      "sha256": "b0e776cac496796210254540dd91d257ad69d4b4bce85a1a6b658e8c5aa72994",
+      "size": 20564557,
+      "durationSeconds": 1279,
+      "title": "027",
+      "discrepancies": [
+        "title: RSS=027. Работа с текстом; ID3=027"
+      ]
+    },
+    {
+      "stableId": "episode-8d16541727d567e9",
+      "guid": "e3a5845b-bcf0-42b3-a99a-453a5303170b",
+      "audioPath": "026.mp3",
+      "status": "matched",
+      "sha256": "3c2f2dab2916b37b1c06d92a0cefe355d88899cd79e921676b0fb7e7d05d2ee4",
+      "size": 22553410,
+      "durationSeconds": 1403,
+      "title": "026. Налоги и Гарбидж Коллекшн",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-ff4324e38f3abbd0",
+      "guid": "f200fdbd-8f32-44c3-9850-faeea1ba1274",
+      "audioPath": "025.mp3",
+      "status": "matched",
+      "sha256": "4b0bb50fc63bc8fb274421ea8e6a1e8d95bd6a0129da888769779b371ed22ac8",
+      "size": 17972181,
+      "durationSeconds": 1114,
+      "title": "025. Про работу, Аналитику и Шрифты",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-438fdba602656b90",
+      "guid": "18ae047c-286a-418f-8e5d-79ba0a282ece",
+      "audioPath": "024.mp3",
+      "status": "matched",
+      "sha256": "efee5e16d52c3c58e506d798c4d2a7ea2bd9e135163aa2e68637596389ac05ba",
+      "size": 15962408,
+      "durationSeconds": 990,
+      "title": "024. Девлог. Первая демка в Steam",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-7ba71fb7f4727106",
+      "guid": "bec4b38d-0565-494c-a817-1a4f08c01855",
+      "audioPath": "023.mp3",
+      "status": "matched",
+      "sha256": "f920aba6c209dab774278e5bc185a552b19f60b6d22820ce5c464f990655a5a8",
+      "size": 23062082,
+      "durationSeconds": 1434,
+      "title": "023. Devspace Summer Camp",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-9048913ffd2a7461",
+      "guid": "14de904e-a28d-4f92-ba67-171c182a67df",
+      "audioPath": "022.mp3",
+      "status": "matched",
+      "sha256": "110093bfcafcf42e94aed2b19d9429f3ec6e4d0743871c8fe1cc3f66b858831e",
+      "size": 14621479,
+      "durationSeconds": 908,
+      "title": "022. Конференции",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-77753bf0eb78f272",
+      "guid": "1bb67a5d-0492-46aa-aa54-644e060fbac0",
+      "audioPath": "021.mp3",
+      "status": "matched",
+      "sha256": "7af837db591be91c2485ef4ea8a1707952370b2ab63119e1ad45286c97dc324f",
+      "size": 13319820,
+      "durationSeconds": 825,
+      "title": "021. Деглобализация и Технологии",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-4dd3f080586df534",
+      "guid": "3db505c6-2ad6-4065-865a-5fe66affd089",
+      "audioPath": "020.mp3",
+      "status": "matched",
+      "sha256": "e91ee88b333a4286a59517e57a6c46d2ced3273dac722827e8f67fd27e0c6912",
+      "size": 15303345,
+      "durationSeconds": 949,
+      "title": "020. Девлог. Издатель и контракт",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-3baef9b80c2eaa21",
+      "guid": "bec5ec8f-5698-4600-87e1-ebed13ce10f3",
+      "audioPath": "019.mp3",
+      "status": "matched",
+      "sha256": "d8c99ea7bb3164d68472a6acf6f604715e090c5bd808b9b61ab508db98603a60",
+      "size": 14624057,
+      "durationSeconds": 908,
+      "title": "019. Закуски к пиву",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-21501a1323f3c7ba",
+      "guid": "bc6f42ef-a47a-4776-a7f1-10ea025b146a",
+      "audioPath": "018.mp3",
+      "status": "matched",
+      "sha256": "e2eb36ef6017cab41b2cbd9de7bce4a2788380593d12cc93ac05412ea5ee64f4",
+      "size": 23224614,
+      "durationSeconds": 1445,
+      "title": "018. Apple WWDC 2022",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-1c0ffb69e6a891b9",
+      "guid": "c055be27-ecaa-4f34-aadb-df0f983517cc",
+      "audioPath": "017.mp3",
+      "status": "matched",
+      "sha256": "b14812a49eb64f5b0384fd45e55a16efa13afa4179e5f269840dadb1e14d8a9e",
+      "size": 21926622,
+      "durationSeconds": 1362,
+      "title": "017. Девлог. Scriptable Object Architecture и рефакторинг",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-31046583afbef9a1",
+      "guid": "5ba10764-eb8e-4c93-909a-2da8bb7d6e04",
+      "audioPath": "016.mp3",
+      "status": "matched",
+      "sha256": "670487a0d02e32329d284f68c46672a8da93f04d403a5597a9f70e54be834119",
+      "size": 21758474,
+      "durationSeconds": 1354,
+      "title": "016. Unity",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-bd4b5ded3fc45ebf",
+      "guid": "0d4caad0-5e98-46e9-a532-c3d56afebf6d",
+      "audioPath": "015.mp3",
+      "status": "matched",
+      "sha256": "7bff0b0e64c6f1ad2501f9620e1ba2d5f0bb7221b0fcc5e631a4cb98c1172504",
+      "size": 27828132,
+      "durationSeconds": 1732,
+      "title": "015. Zettelkasten",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-9656dadad0d40913",
+      "guid": "02b728db-9dbb-45fe-b02e-8820d3666e1b",
+      "audioPath": "014.mp3",
+      "status": "matched",
+      "sha256": "e7d05ddd5dfd4b1ec18f469c14d54115674a69372c32a14e54667cf1cc795981",
+      "size": 22893128,
+      "durationSeconds": 1425,
+      "title": "014. Free to Play",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-c4aaba1d7776bd28",
+      "guid": "ed711e47-b1bf-4a4c-af4b-3c3bca7bbdc1",
+      "audioPath": "013.mp3",
+      "status": "matched",
+      "sha256": "3b331e0d3bf66c1c0b979e0cea74f3655cbb68325b9f7a512092d9983a5d2c85",
+      "size": 23860746,
+      "durationSeconds": 1485,
+      "title": "013. Девлог_3",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-00195e98f1516133",
+      "guid": "c312494b-87a5-4dbe-b460-e982973b43f6",
+      "audioPath": "012.mp3",
+      "status": "matched",
+      "sha256": "50ea54e717e1bb6005beb6773c3b1ce745e519149ad94a7bf28fdff4647275b2",
+      "size": 22560081,
+      "durationSeconds": 1403,
+      "title": "012. Сохранение Игр",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-727a754f0c3fac41",
+      "guid": "4587d722-29af-49ca-9ad5-757cf7dd1932",
+      "audioPath": "011.mp3",
+      "status": "matched",
+      "sha256": "5e2f9a27aad516ec40950c1b53a8ab1d5792d4c99267591272083784fe4c24a8",
+      "size": 27807416,
+      "durationSeconds": 1732,
+      "title": "011. CI/CD",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-da34c97cb1f2cd95",
+      "guid": "459dd101-052f-4323-84c9-76e4f01bef11",
+      "audioPath": "010.mp3",
+      "status": "matched",
+      "sha256": "167f942708da0af1d36b3a4023e90240398c7e62c86d50f164729b09b088ba3a",
+      "size": 28843177,
+      "durationSeconds": 1794,
+      "title": "010. Подкаст и подкастинг",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-bc8c7f57717492df",
+      "guid": "55f79c5e-8709-48b8-86e4-c19a8b8575e8",
+      "audioPath": "009.mp3",
+      "status": "matched",
+      "sha256": "a2a7331901993f2ee6db0c522e2f77d7ce8ad67e13ea24d7409363308f0c7754",
+      "size": 21226208,
+      "durationSeconds": 1320,
+      "title": "009. Девлог_2",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-0ecdf8159825a96b",
+      "guid": "5283c741-73e6-4c0f-ad6d-278d42f87da9",
+      "audioPath": "008.mp3",
+      "status": "matched",
+      "sha256": "7516f5f43b16531310991627032530357c3e0670f366540de798a569d2defe5b",
+      "size": 23218774,
+      "durationSeconds": 1444,
+      "title": "008. Геймджемы",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-9d95f5a649c2e4f2",
+      "guid": "98db56e5-5980-423b-971e-0a270cc8d0d4",
+      "audioPath": "007.mp3",
+      "status": "matched",
+      "sha256": "a462df91ad457ea5e6851f8c6a77b27cef395b75b492e49a17add6c271bca6ac",
+      "size": 22147120,
+      "durationSeconds": 1378,
+      "title": "007. Издатели",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-4caf047d7572455b",
+      "guid": "1155664b-fc06-47d2-a341-c00d6bf0b27c",
+      "audioPath": "006.mp3",
+      "status": "matched",
+      "sha256": "ef233e6e617d0615664f4d807b82a251d4956f0784c757bc2534daedd59eb7fe",
+      "size": 18576292,
+      "durationSeconds": 1155,
+      "title": "006. Девлог_1",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-0fe4231f4f42434e",
+      "guid": "008f9ebe-bada-4aca-91dc-9924edbd76c8",
+      "audioPath": "005.mp3",
+      "status": "matched",
+      "sha256": "8213a6670797b5a89ba106a3b0991ae6147e580c7d1cc083a498197dd5d04728",
+      "size": 25177953,
+      "durationSeconds": 1567,
+      "title": "005. Санкции",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-e4b59788e8abe904",
+      "guid": "29d271fa-78be-49cb-9dae-8bb77a66160a",
+      "audioPath": "004.mp3",
+      "status": "matched",
+      "sha256": "8c868b46b711bbf2d0857983641c5e36b1c0956cfe40d0d0bb73226a779e5c06",
+      "size": 17266993,
+      "durationSeconds": 1073,
+      "title": "004. Планирование",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-542c1d936312b3f1",
+      "guid": "62bc2cd7-b119-4ab8-af3a-d74dcdad7e01",
+      "audioPath": "003.mp3",
+      "status": "matched",
+      "sha256": "a84331578f8a458313be9a7410219d9a78180b3e494b77bf94948f5452d24241",
+      "size": 12894599,
+      "durationSeconds": 799,
+      "title": "003. Конкурсы",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-989e9452acc3e606",
+      "guid": "36bb0755-35bc-474f-8d64-3fa9ffe113d7",
+      "audioPath": "002.mp3",
+      "status": "matched",
+      "sha256": "683930f1bbf17628e4d2bb5681e29c2b5560c3618072063f73c6b1a2447c6a11",
+      "size": 17651491,
+      "durationSeconds": 1032,
+      "title": "002. Masterplan Tycoon",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-2fac9599bbfb5901",
+      "guid": "0a62945d-8aaa-44b6-960e-9c21de0dddbc",
+      "audioPath": "001.mp3",
+      "status": "matched",
+      "sha256": "23e4403bf7528320f1b5adab4366be60feab9fa520f94dd5fb99f2d61463e751",
+      "size": 7362913,
+      "durationSeconds": 454,
+      "title": "001. О подкасте",
+      "discrepancies": []
+    },
+    {
+      "stableId": "episode-6d00c139b57df586",
+      "guid": "2d5a7ce8-1a6f-4221-aaaa-fed6acf5a026",
+      "audioPath": "000.mp3",
+      "status": "matched",
+      "sha256": "3927fa34133ff544b2936bb8925122171b924ffda7c066906e4b8270be3c206e",
+      "size": 779159,
+      "durationSeconds": 43,
+      "title": "Тизер",
+      "discrepancies": []
+    }
+  ],
+  "extraFiles": [],
+  "scannedFiles": 129,
+  "migrationComplete": true
+}

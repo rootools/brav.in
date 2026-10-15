@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-3a2ad099a3c9d1d5",
+  "guid": "2e33a3ef-f553-4df9-ac4e-7548b00831eb",
+  "guidIsPermaLink": "false",
+  "title": "027. Работа с текстом",
+  "description": "Эпизод о том как я пытаюсь составлять буквы в слова и что бы выглядело это не позорно. Ну, насколько мне это кажется...)<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p><p><br /></p><p>Халяльный дизайн: как делать приложения на арабском: <a href=\"http://vc.ru/design/478245\">http://vc.ru/design/478245</a></p><p>Книга: Джейсон Фрайд, Давид Хейнемейер Ханссон: Remote: офис не обязателен.</p><p>Онлайн-сервер для NFS Underground 2 своими руками. Часть 1: <a href=\"https://habr.com/p/681610/\">https://habr.com/p/681610/</a></p><p><br /></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я пытаюсь составлять буквы в слова и что бы выглядело это не позорно. Ну, насколько мне это кажется...)<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p><p><br /></p><p>Халяльный дизайн: как делать приложения на арабском: <a href=\"http://vc.ru/design/478245\">http://vc.ru/design/478245</a></p><p>Книга: Джейсон Фрайд, Давид Хейнемейер Ханссон: Remote: офис не обязателен.</p><p>Онлайн-сервер для NFS Underground 2 своими руками. Часть 1: <a href=\"https://habr.com/p/681610/\">https://habr.com/p/681610/</a></p><p><br /></p>",
+    "contentEncoded": "Эпизод о том как я пытаюсь составлять буквы в слова и что бы выглядело это не позорно. Ну, насколько мне это кажется...)<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p><p><br /></p><p>Халяльный дизайн: как делать приложения на арабском: <a href=\"http://vc.ru/design/478245\">http://vc.ru/design/478245</a></p><p>Книга: Джейсон Фрайд, Давид Хейнемейер Ханссон: Remote: офис не обязателен.</p><p>Онлайн-сервер для NFS Underground 2 своими руками. Часть 1: <a href=\"https://habr.com/p/681610/\">https://habr.com/p/681610/</a></p><p><br /></p>"
+  },
+  "pubDate": "Tue, 16 Aug 2022 07:00:00 GMT",
+  "publishAt": "2022-08-16T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/bf6d505e-3539-43a5-87e0-93a79a54c4f1.mp3",
+  "enclosureLength": 20564557,
+  "enclosureType": "audio/mpeg",
+  "duration": "1279",
+  "episode": "027",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/027.mp3",
+    "key": "027.mp3",
+    "sha256": "b0e776cac496796210254540dd91d257ad69d4b4bce85a1a6b658e8c5aa72994",
+    "size": 20564557,
+    "mimeType": "audio/mpeg"
+  }
+}

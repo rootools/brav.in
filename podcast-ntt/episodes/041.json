@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-ff9b2e843ea12438",
+  "guid": "a53d20d1-440a-4c8f-bc8f-bc51ceb96a58",
+  "guidIsPermaLink": "false",
+  "title": "041. Git LFS и коллайдеры",
+  "description": "Эпизод о том я использовал Git LFS, а потом совсем не использовал и причем тут коллайдеры.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>The 30 Year History of Crystal Dynamics - Noclip Documentary: <a href=\"https://www.youtube.com/watch?v=DsByUubJkk8\">https://www.youtube.com/watch?v=DsByUubJkk8</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том я использовал Git LFS, а потом совсем не использовал и причем тут коллайдеры.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>The 30 Year History of Crystal Dynamics - Noclip Documentary: <a href=\"https://www.youtube.com/watch?v=DsByUubJkk8\">https://www.youtube.com/watch?v=DsByUubJkk8</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том я использовал Git LFS, а потом совсем не использовал и причем тут коллайдеры.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>The 30 Year History of Crystal Dynamics - Noclip Documentary: <a href=\"https://www.youtube.com/watch?v=DsByUubJkk8\">https://www.youtube.com/watch?v=DsByUubJkk8</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 06 Dec 2022 07:00:00 GMT",
+  "publishAt": "2022-12-06T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/f18bbcc5-4e30-48c3-985b-d61eda659f21.mp3",
+  "enclosureLength": 18575606,
+  "enclosureType": "audio/mpeg",
+  "duration": "1155",
+  "episode": "041",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/041.mp3",
+    "key": "041.mp3",
+    "sha256": "29e55c9a279a4a89b012ce44c2ef91b220a78658379b10c742791d99b86f746a",
+    "size": 18575606,
+    "mimeType": "audio/mpeg"
+  }
+}

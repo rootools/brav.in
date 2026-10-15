@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-b4fb80ec4559d9bd",
+  "guid": "663e4c20-9f4a-4ad3-ba7e-d2afdde80c6a",
+  "guidIsPermaLink": "false",
+  "title": "073. Скейл",
+  "description": "Эпизод о том как я скейлил новые локации для Masterplan Tycoon, а так же добавлял Scale в свой фреймворк.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Masterplan Tycoon(EGS): <a href=\"https://store.epicgames.com/ru/p/masterplan-tycoon-379d81\">https://store.epicgames.com/ru/p/masterplan-tycoon-379d81</a></p><p>Masterplan Tycoon(GOG): <a href=\"https://www.gog.com/en/game/masterplan_tycoon\">https://www.gog.com/en/game/masterplan_tycoon</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я скейлил новые локации для Masterplan Tycoon, а так же добавлял Scale в свой фреймворк.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Masterplan Tycoon(EGS): <a href=\"https://store.epicgames.com/ru/p/masterplan-tycoon-379d81\">https://store.epicgames.com/ru/p/masterplan-tycoon-379d81</a></p><p>Masterplan Tycoon(GOG): <a href=\"https://www.gog.com/en/game/masterplan_tycoon\">https://www.gog.com/en/game/masterplan_tycoon</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том как я скейлил новые локации для Masterplan Tycoon, а так же добавлял Scale в свой фреймворк.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Masterplan Tycoon(EGS): <a href=\"https://store.epicgames.com/ru/p/masterplan-tycoon-379d81\">https://store.epicgames.com/ru/p/masterplan-tycoon-379d81</a></p><p>Masterplan Tycoon(GOG): <a href=\"https://www.gog.com/en/game/masterplan_tycoon\">https://www.gog.com/en/game/masterplan_tycoon</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 23 Jan 2024 07:00:00 GMT",
+  "publishAt": "2024-01-23T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/863cb02f-ab40-4381-a7e1-bd66720e0e67.mp3",
+  "enclosureLength": 32417004,
+  "enclosureType": "audio/mpeg",
+  "duration": "2020",
+  "episode": "073",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/073.mp3",
+    "key": "073.mp3",
+    "sha256": "65421b35085dd2cf984551031b052f7bd31ace5af7ebf2a3eb0d2b2822a04954",
+    "size": 32417004,
+    "mimeType": "audio/mpeg"
+  }
+}

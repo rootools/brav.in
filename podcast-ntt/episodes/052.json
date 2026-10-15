@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-ba8d894b426c9b23",
+  "guid": "85637f89-482a-4e5d-b767-50a3d36bd746",
+  "guidIsPermaLink": "false",
+  "title": "052. Деплоил Steam и сцены лечил",
+  "description": "Эпизод о том как я деплоил Steam и лечил поломанную сцену. А еще у меня был целый блок про Ludum Dare 53, но выпуск внезапно распух до непотребных размеров) Так что о нем в следующий раз)<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Моссад. Самые яркие и дерзкие операции израильской секретной службы: <a href=\"https://bookmate.ru/audiobooks/YqgIhhqG\">https://bookmate.ru/audiobooks/YqgIhhqG</a></p><p><br /></p><p>Masterplan Tycoon: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я деплоил Steam и лечил поломанную сцену. А еще у меня был целый блок про Ludum Dare 53, но выпуск внезапно распух до непотребных размеров) Так что о нем в следующий раз)<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Моссад. Самые яркие и дерзкие операции израильской секретной службы: <a href=\"https://bookmate.ru/audiobooks/YqgIhhqG\">https://bookmate.ru/audiobooks/YqgIhhqG</a></p><p><br /></p><p>Masterplan Tycoon: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том как я деплоил Steam и лечил поломанную сцену. А еще у меня был целый блок про Ludum Dare 53, но выпуск внезапно распух до непотребных размеров) Так что о нем в следующий раз)<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Моссад. Самые яркие и дерзкие операции израильской секретной службы: <a href=\"https://bookmate.ru/audiobooks/YqgIhhqG\">https://bookmate.ru/audiobooks/YqgIhhqG</a></p><p><br /></p><p>Masterplan Tycoon: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 09 May 2023 07:00:00 GMT",
+  "publishAt": "2023-05-09T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/17b3b14f-ce39-48fb-9438-9af788f2e493.mp3",
+  "enclosureLength": 25853435,
+  "enclosureType": "audio/mpeg",
+  "duration": "1609",
+  "episode": "052",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/052.mp3",
+    "key": "052.mp3",
+    "sha256": "87ed5781335a2d3888329da56579ff430225bc49fe20dd748fbcc3ba0c7a472f",
+    "size": 25853435,
+    "mimeType": "audio/mpeg"
+  }
+}

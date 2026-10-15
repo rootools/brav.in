@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-e463e6a4ef7bea7c",
+  "guid": "29e84d99-174b-43ad-b715-59e624dc5600",
+  "guidIsPermaLink": "false",
+  "title": "105. Делаем свет",
+  "description": "Эпизод о том как я спрайты освещал<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Слушать подкаст везде: <a href=\"https://needtotry.mave.digital/\">https://needtotry.mave.digital/</a></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Бюро Бравина: <a href=\"https://bravin.games/\">https://bravin.games/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bravingames\">https://t.me/bravingames</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я спрайты освещал<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Слушать подкаст везде: <a href=\"https://needtotry.mave.digital/\">https://needtotry.mave.digital/</a></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Бюро Бравина: <a href=\"https://bravin.games/\">https://bravin.games/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bravingames\">https://t.me/bravingames</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том как я спрайты освещал<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Слушать подкаст везде: <a href=\"https://needtotry.mave.digital/\">https://needtotry.mave.digital/</a></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Бюро Бравина: <a href=\"https://bravin.games/\">https://bravin.games/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bravingames\">https://t.me/bravingames</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 22 Jul 2025 07:00:00 GMT",
+  "publishAt": "2025-07-22T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/874974a0-0a9f-4521-b357-17eea0277cb5.mp3",
+  "enclosureLength": 44294818,
+  "enclosureType": "audio/mpeg",
+  "duration": "2762",
+  "episode": "105",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/105.mp3",
+    "key": "105.mp3",
+    "sha256": "1fbd592a8c8133354fbb9ecb936ffde487f742e5d035e8a1dc85622e4d6f03c1",
+    "size": 44294818,
+    "mimeType": "audio/mpeg"
+  }
+}

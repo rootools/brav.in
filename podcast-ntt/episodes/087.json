@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-2a6f5e1a33353199",
+  "guid": "87e2fe5b-4dc3-4bcb-819b-e9d51c49e0ea",
+  "guidIsPermaLink": "false",
+  "title": "087. Lu a что?",
+  "description": "Эпизод о том как я Lua в игру интегрировал. А еще таски эмоджами в файлик писал. А еще ждал пока на читалке страница перевернётся<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Слушать подкаст везде: <a href=\"https://needtotry.mave.digital/\">https://needtotry.mave.digital/</a></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Бюро Бравина: <a href=\"https://store.steampowered.com/developer/BureauBravin\">https://store.steampowered.com/developer/BureauBravin</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bravingames\">https://t.me/bravingames</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я Lua в игру интегрировал. А еще таски эмоджами в файлик писал. А еще ждал пока на читалке страница перевернётся<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Слушать подкаст везде: <a href=\"https://needtotry.mave.digital/\">https://needtotry.mave.digital/</a></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Бюро Бравина: <a href=\"https://store.steampowered.com/developer/BureauBravin\">https://store.steampowered.com/developer/BureauBravin</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bravingames\">https://t.me/bravingames</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том как я Lua в игру интегрировал. А еще таски эмоджами в файлик писал. А еще ждал пока на читалке страница перевернётся<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Слушать подкаст везде: <a href=\"https://needtotry.mave.digital/\">https://needtotry.mave.digital/</a></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Бюро Бравина: <a href=\"https://store.steampowered.com/developer/BureauBravin\">https://store.steampowered.com/developer/BureauBravin</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bravingames\">https://t.me/bravingames</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 22 Oct 2024 07:00:00 GMT",
+  "publishAt": "2024-10-22T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/f3bc145c-0f41-4247-8407-b6b5d357ad82.mp3",
+  "enclosureLength": 29778761,
+  "enclosureType": "audio/mpeg",
+  "duration": "1855",
+  "episode": "087",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/087.mp3",
+    "key": "087.mp3",
+    "sha256": "fab84a0486e157c06a4f19995f2999d85f127d1190af6eeea74e77a13627991d",
+    "size": 29778761,
+    "mimeType": "audio/mpeg"
+  }
+}

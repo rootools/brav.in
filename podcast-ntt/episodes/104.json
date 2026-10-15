@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-5139a49e8f0f3de7",
+  "guid": "bbeb6ef6-3ad6-43e7-b7ca-5bc90de0f0ab",
+  "guidIsPermaLink": "false",
+  "title": "104. NativeAOT",
+  "description": "Эпизод о том как я делал немножко инноваций в игре, а так же как мне пригодился жесткий диск 2009 года. Который, между прочем, работает без проблем!<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Слушать подкаст везде: <a href=\"https://needtotry.mave.digital/\">https://needtotry.mave.digital/</a></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Бюро Бравина: <a href=\"https://bravin.games/\">https://bravin.games/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bravingames\">https://t.me/bravingames</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я делал немножко инноваций в игре, а так же как мне пригодился жесткий диск 2009 года. Который, между прочем, работает без проблем!<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Слушать подкаст везде: <a href=\"https://needtotry.mave.digital/\">https://needtotry.mave.digital/</a></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Бюро Бравина: <a href=\"https://bravin.games/\">https://bravin.games/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bravingames\">https://t.me/bravingames</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том как я делал немножко инноваций в игре, а так же как мне пригодился жесткий диск 2009 года. Который, между прочем, работает без проблем!<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Слушать подкаст везде: <a href=\"https://needtotry.mave.digital/\">https://needtotry.mave.digital/</a></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Бюро Бравина: <a href=\"https://bravin.games/\">https://bravin.games/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bravingames\">https://t.me/bravingames</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 08 Jul 2025 07:16:00 GMT",
+  "publishAt": "2025-07-08T07:16:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/a8604518-fddd-407f-986b-7446d75e00cd.mp3",
+  "enclosureLength": 33070356,
+  "enclosureType": "audio/mpeg",
+  "duration": "2061",
+  "episode": "104",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/104.mp3",
+    "key": "104.mp3",
+    "sha256": "ab63e1d1f4e3391a5a85ac6788b76a41788fddad5b714b1d8809509943bf6ba6",
+    "size": 33070356,
+    "mimeType": "audio/mpeg"
+  }
+}

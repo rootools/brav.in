@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-1eb35d2f75060ca6",
+  "guid": "d493c04e-7eda-4616-b736-26602575b14d",
+  "guidIsPermaLink": "false",
+  "title": "032. Enum победил SO и Стагнация ПО",
+  "description": "Эпизод о том как я не смог заменить enum на Scriptable Object. О стагнации Unity, и о том как Figma превзошла Photoshop<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я не смог заменить enum на Scriptable Object. О стагнации Unity, и о том как Figma превзошла Photoshop<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том как я не смог заменить enum на Scriptable Object. О стагнации Unity, и о том как Figma превзошла Photoshop<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 20 Sep 2022 07:00:00 GMT",
+  "publishAt": "2022-09-20T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/cd10af66-dcaf-4edd-a078-071c092147e6.mp3",
+  "enclosureLength": 26511283,
+  "enclosureType": "audio/mpeg",
+  "duration": "1649",
+  "episode": "032",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/032.mp3",
+    "key": "032.mp3",
+    "sha256": "6c6ce2d309495067d0b3cda02bf4119d950cbb4797cc305641d42698a9cf815d",
+    "size": 26511283,
+    "mimeType": "audio/mpeg"
+  }
+}

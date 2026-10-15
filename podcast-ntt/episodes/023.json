@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-7ba71fb7f4727106",
+  "guid": "bec4b38d-0565-494c-a817-1a4f08c01855",
+  "guidIsPermaLink": "false",
+  "title": "023. Devspace Summer Camp",
+  "description": "Эпизод о том как я съездил выступить на Devspace Summer Camp. Летняя конференция/вечеринка на берегу Волги.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Добавить Masterplan Tycoon в вишлист: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Бесплатно скачать демку тут: <a href=\"https://rootools.itch.io/masterplan-tycoon\">https://rootools.itch.io/masterplan-tycoon</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я съездил выступить на Devspace Summer Camp. Летняя конференция/вечеринка на берегу Волги.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Добавить Masterplan Tycoon в вишлист: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Бесплатно скачать демку тут: <a href=\"https://rootools.itch.io/masterplan-tycoon\">https://rootools.itch.io/masterplan-tycoon</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том как я съездил выступить на Devspace Summer Camp. Летняя конференция/вечеринка на берегу Волги.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Добавить Masterplan Tycoon в вишлист: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Бесплатно скачать демку тут: <a href=\"https://rootools.itch.io/masterplan-tycoon\">https://rootools.itch.io/masterplan-tycoon</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 19 Jul 2022 07:00:00 GMT",
+  "publishAt": "2022-07-19T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/bf265793-fdab-4f2d-a7f1-ed1f73a39d73.mp3",
+  "enclosureLength": 23062082,
+  "enclosureType": "audio/mpeg",
+  "duration": "1433",
+  "episode": "023",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/023.mp3",
+    "key": "023.mp3",
+    "sha256": "f920aba6c209dab774278e5bc185a552b19f60b6d22820ce5c464f990655a5a8",
+    "size": 23062082,
+    "mimeType": "audio/mpeg"
+  }
+}

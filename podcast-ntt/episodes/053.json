@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-3a030fa896ae8bd3",
+  "guid": "a3f59173-2dd0-4a14-b754-e9e9e6ac0d7e",
+  "guidIsPermaLink": "false",
+  "title": "053. Ludum Dare 53 и ECS",
+  "description": "Эпизод о том как я в на Ludum Dare новый прототип делал и как у меня не сложилось с ECS. Опять.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Выпуск #8 про геймджемы: <a href=\"https://needtotry.mave.digital/ep-9\">https://needtotry.mave.digital/ep-9</a></p><p><br /></p><p>Masterplan Tycoon: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я в на Ludum Dare новый прототип делал и как у меня не сложилось с ECS. Опять.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Выпуск #8 про геймджемы: <a href=\"https://needtotry.mave.digital/ep-9\">https://needtotry.mave.digital/ep-9</a></p><p><br /></p><p>Masterplan Tycoon: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том как я в на Ludum Dare новый прототип делал и как у меня не сложилось с ECS. Опять.<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Выпуск #8 про геймджемы: <a href=\"https://needtotry.mave.digital/ep-9\">https://needtotry.mave.digital/ep-9</a></p><p><br /></p><p>Masterplan Tycoon: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 30 May 2023 07:00:00 GMT",
+  "publishAt": "2023-05-30T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/be1aff8f-616e-4473-b3e4-5c5ebae3044f.mp3",
+  "enclosureLength": 35080979,
+  "enclosureType": "audio/mpeg",
+  "duration": "2186",
+  "episode": "053",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/053.mp3",
+    "key": "053.mp3",
+    "sha256": "a2ab28293e2439e250b065d29329eecb3cc53c5a8c863ba05ef0b1572285e0b7",
+    "size": 35080979,
+    "mimeType": "audio/mpeg"
+  }
+}

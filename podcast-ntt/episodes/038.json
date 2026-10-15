@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-124e22d653341ee6",
+  "guid": "abd7e56f-c068-4fa7-af99-1b0b325f130b",
+  "guidIsPermaLink": "false",
+  "title": "038. Dungeon & Dragons",
+  "description": "Эпизод о подземельях, драконах, мастерах и отыгрышах. В гостях - Миша Синяков. Главный по созданию движа из вакуума, джаваскрипт программист и повелитель подземелий.<p>Кстати, это мой первый выпуск с гостем! 😅</p><p><br /></p><p>IT-сообщество DevSpace: <a href=\"https://discord.gg/fkZq7Tgrbf\">https://discord.gg/fkZq7Tgrbf</a></p><p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о подземельях, драконах, мастерах и отыгрышах. В гостях - Миша Синяков. Главный по созданию движа из вакуума, джаваскрипт программист и повелитель подземелий.<p>Кстати, это мой первый выпуск с гостем! 😅</p><p><br /></p><p>IT-сообщество DevSpace: <a href=\"https://discord.gg/fkZq7Tgrbf\">https://discord.gg/fkZq7Tgrbf</a></p><p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о подземельях, драконах, мастерах и отыгрышах. В гостях - Миша Синяков. Главный по созданию движа из вакуума, джаваскрипт программист и повелитель подземелий.<p>Кстати, это мой первый выпуск с гостем! 😅</p><p><br /></p><p>IT-сообщество DevSpace: <a href=\"https://discord.gg/fkZq7Tgrbf\">https://discord.gg/fkZq7Tgrbf</a></p><p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon. Добавить в вишлист, скачать демку: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 08 Nov 2022 07:00:00 GMT",
+  "publishAt": "2022-11-08T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/a84682dc-9e57-4e82-8ca3-7ba97595afb3.mp3",
+  "enclosureLength": 70982388,
+  "enclosureType": "audio/mpeg",
+  "duration": "4427",
+  "episode": "038",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/038.mp3",
+    "key": "038.mp3",
+    "sha256": "3d356525bb39a2d06ad693f5b94bf5035513d0db12e52c49929e6c8003a9f8f0",
+    "size": 70982388,
+    "mimeType": "audio/mpeg"
+  }
+}

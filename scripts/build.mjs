@@ -2,6 +2,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import matter from 'gray-matter';
 import MarkdownIt from 'markdown-it';
+import { readJson, validateMigrationCatalog } from './podcast-lib.mjs';
 
 const root = process.cwd();
 const dist = path.join(root, 'dist');
@@ -10,7 +11,7 @@ const birthDate = { year: 1988, month: 7, day: 8 };
 const templatePath = path.join(root, 'templates/page.html');
 const md = new MarkdownIt({ html: true, linkify: true, typographer: true });
 
-const required = ['index.md', '404.md', 'favicon.png', 'me.JPG', 'templates/page.html', 'styles/main.css'];
+const required = ['index.md', '404.md', 'favicon.png', 'me.JPG', 'templates/page.html', 'styles/main.css', 'podcast-ntt/show.json', 'assets/podcast-ntt-cover.jpg'];
 const escape = value => String(value).replace(/[&<>"']/g, char => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[char]));
 
 async function readPage(filePath) {
@@ -72,6 +73,39 @@ function calculateAge(today = new Date()) {
   return age;
 }
 
+function podcastText(value) {
+  return escape(value).split(/\n{2,}/).map(paragraph => `<p>${paragraph.replace(/\n/g, '<br>')}</p>`).join('');
+}
+
+function podcastDate(episode) {
+  const value = episode.pubDate || episode.publishAt;
+  return new Date(value).toISOString().slice(0, 10);
+}
+
+async function buildPodcast(buildStartedAt) {
+  const show = await readJson(path.join(root, 'podcast-ntt/show.json'));
+  const { mapping } = await validateMigrationCatalog({ requireAudio: process.env.PODCAST_REQUIRE_READY === 'true' });
+  const episodeFiles = (await fs.readdir(path.join(root, 'podcast-ntt/episodes'))).filter(file => file.endsWith('.json')).sort();
+  const episodes = [];
+  for (const file of episodeFiles) {
+    const episode = await readJson(path.join(root, 'podcast-ntt/episodes', file));
+    if (episode.audio?.url && new Date(episode.publishAt || episode.pubDate) <= buildStartedAt) episodes.push(episode);
+  }
+  if (mapping.migrationComplete !== true && (episodes.length || process.env.PODCAST_REQUIRE_READY === 'true')) throw new Error('Миграция подкаста не завершена: RSS не собирается из неполного архива');
+  episodes.sort((a, b) => new Date(b.publishAt || b.pubDate) - new Date(a.publishAt || a.pubDate));
+  const items = episodes.map(episode => `<article class="podcast-episode"><h2>${escape(episode.title)}</h2><p class="meta"><time datetime="${escape(new Date(episode.publishAt || episode.pubDate).toISOString())}">${escape(podcastDate(episode))}</time></p>${episode.descriptionFormat === 'html' ? episode.description : podcastText(episode.description)}<p><a href="${escape(episode.audio.url)}">Скачать MP3</a></p></article>`).join('\n');
+  const content = `<h1>${escape(show.title)}</h1><img class="podcast-cover" src="${escape(show.image)}" alt="Обложка подкаста «${escape(show.title)}»"><p>${escape(show.description)}</p><p><a href="${escape(show.feedUrl)}">Подписаться по RSS</a></p>${show.platforms.map(platform => `<p><a href="${escape(platform.url)}">${escape(platform.title)}</a></p>`).join('')}<section class="podcast-episodes"><h2>Выпуски</h2>${items || '<p>Выпуски пока не опубликованы.</p>'}</section>`;
+  await writePage('podcast-ntt/index.html', { title: show.title, description: show.description, canonical: show.pageUrl, content });
+  const rssItems = episodes.map(episode => `<item><title>${cdata(episode.title)}</title><description>${episode.descriptionFormat === 'html' ? cdata(episode.description) : cdata(podcastText(episode.description))}</description><pubDate>${escape(episode.pubDate || new Date(episode.publishAt).toUTCString())}</pubDate><guid${episode.guidIsPermaLink == null ? '' : ` isPermaLink="${episode.guidIsPermaLink}"`}>${xmlEscape(episode.guid)}</guid><enclosure url="${escape(episode.audio.url)}" length="${episode.audio.size}" type="audio/mpeg"/><itunes:duration>${escape(episode.duration)}</itunes:duration>${episode.episode ? `<itunes:episode>${escape(episode.episode)}</itunes:episode>` : ''}${episode.season ? `<itunes:season>${escape(episode.season)}</itunes:season>` : ''}${episode.episodeType ? `<itunes:episodeType>${escape(episode.episodeType)}</itunes:episodeType>` : ''}</item>`).join('\n');
+  const categories = show.categories.map(category => typeof category === 'string' ? `<itunes:category text="${escape(category)}"/>` : `<itunes:category text="${escape(category.name)}">${category.subcategory ? `<itunes:category text="${escape(category.subcategory)}"/>` : ''}</itunes:category>`).join('');
+  const rss = `<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>${cdata(show.title)}</title><description>${cdata(show.description)}</description><language>${escape(show.language)}</language><link>${escape(show.pageUrl)}</link><atom:link href="${escape(show.feedUrl)}" rel="self" type="application/rss+xml"/><itunes:author>${cdata(show.author)}</itunes:author><itunes:owner><itunes:name>${cdata(show.author)}</itunes:name><itunes:email>${escape(show.email)}</itunes:email></itunes:owner><itunes:explicit>${show.explicit ? 'true' : 'false'}</itunes:explicit>${categories}<itunes:image href="${escape(`${siteUrl}${show.image}`)}"/><image><url>${escape(`${siteUrl}${show.image}`)}</url><title>${cdata(show.title)}</title><link>${escape(show.pageUrl)}</link></image>${rssItems}</channel></rss>\n`;
+  await fs.mkdir(path.join(dist, 'podcast-ntt'), { recursive: true });
+  await fs.writeFile(path.join(dist, 'podcast-ntt/feed.xml'), rss);
+}
+
+function cdata(value) { return `<![CDATA[${String(value).replaceAll(']]>', ']]]]><![CDATA[>')}]]>`; }
+function xmlEscape(value) { return escape(value); }
+
 async function writePage(relativePath, page) {
   const output = path.join(dist, relativePath);
   await fs.mkdir(path.dirname(output), { recursive: true });
@@ -110,9 +144,11 @@ async function buildSite() {
   await fs.copyFile(path.join(root, 'styles/main.css'), path.join(dist, 'assets/styles.css'));
   await fs.copyFile(path.join(root, 'favicon.png'), path.join(dist, 'favicon.png'));
   await fs.copyFile(path.join(root, 'me.JPG'), path.join(dist, 'me.JPG'));
+  await fs.copyFile(path.join(root, 'assets/podcast-ntt-cover.jpg'), path.join(dist, 'assets/podcast-ntt-cover.jpg'));
   await fs.rm(path.join(dist, 'assets/js'), { recursive: true, force: true });
   await fs.writeFile(path.join(dist, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${siteUrl}/sitemap.xml\n`);
-  const sitemap = [`${siteUrl}/`, ...routes.map(route => `${siteUrl}${route.route}`)].map(url => `  <url><loc>${url}</loc></url>`).join('\n');
+  await buildPodcast(new Date());
+  const sitemap = [`${siteUrl}/`, `${siteUrl}/podcast-ntt/`, ...routes.map(route => `${siteUrl}${route.route}`)].map(url => `  <url><loc>${url}</loc></url>`).join('\n');
   await fs.writeFile(path.join(dist, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${sitemap}\n</urlset>\n`);
 }
 

@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-2fac9599bbfb5901",
+  "guid": "0a62945d-8aaa-44b6-960e-9c21de0dddbc",
+  "guidIsPermaLink": "false",
+  "title": "001. О подкасте",
+  "description": "<p>Эпизод о том почему я уволился с работы и что собираюсь делать дальше.</p>\n<p><br /></p>\n<p>Добавить Masterplan Tycoon в вишлист: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Бесплатно скачать демку тут: <a href=\"https://rootools.itch.io/masterplan-tycoon\">https://rootools.itch.io/masterplan-tycoon\n</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games\n</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "<p>Эпизод о том почему я уволился с работы и что собираюсь делать дальше.</p>\n<p><br /></p>\n<p>Добавить Masterplan Tycoon в вишлист: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Бесплатно скачать демку тут: <a href=\"https://rootools.itch.io/masterplan-tycoon\">https://rootools.itch.io/masterplan-tycoon\n</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games\n</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>",
+    "contentEncoded": "<p>Эпизод о том почему я уволился с работы и что собираюсь делать дальше.</p>\n<p><br /></p>\n<p>Добавить Masterplan Tycoon в вишлист: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Бесплатно скачать демку тут: <a href=\"https://rootools.itch.io/masterplan-tycoon\">https://rootools.itch.io/masterplan-tycoon\n</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games\n</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p><p>\n</p>"
+  },
+  "pubDate": "Tue, 15 Feb 2022 10:00:00 GMT",
+  "publishAt": "2022-02-15T10:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/75848904-fdc6-4335-b7b6-2ec6788432fb.mp3",
+  "enclosureLength": 7362913,
+  "enclosureType": "audio/mpeg",
+  "duration": "454",
+  "episode": "001",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/001.mp3",
+    "key": "001.mp3",
+    "sha256": "23e4403bf7528320f1b5adab4366be60feab9fa520f94dd5fb99f2d61463e751",
+    "size": 7362913,
+    "mimeType": "audio/mpeg"
+  }
+}

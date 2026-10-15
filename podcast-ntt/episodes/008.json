@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-0ecdf8159825a96b",
+  "guid": "5283c741-73e6-4c0f-ad6d-278d42f87da9",
+  "guidIsPermaLink": "false",
+  "title": "008. Геймджемы",
+  "description": "<p>Эпизод о том что такое хакатоны и чем они отличаются от геймджемов. О моих прототипах что накопились за долгие годы. И , конечно, о Ludum Dare.</p>\n<p><br /></p>\n<p>Совсем старые игры на GameJolt: <a href=\"https://gamejolt.com/@rootools/games\">https://gamejolt.com/@rootools/games</a></p>\n<p>И то что по новее на itch.io: <a href=\"https://rootools.itch.io/\">https://rootools.itch.io/</a><br /></p>\n<p><br /></p>\n<p>Добавить Masterplan Tycoon в вишлист: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\n</a></p><p>Бесплатно скачать демку тут: <a href=\"https://rootools.itch.io/masterplan-tycoon\">https://rootools.itch.io/masterplan-tycoon\n</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games\n</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>\n</p><p>\n</p><p>\n</p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "<p>Эпизод о том что такое хакатоны и чем они отличаются от геймджемов. О моих прототипах что накопились за долгие годы. И , конечно, о Ludum Dare.</p>\n<p><br /></p>\n<p>Совсем старые игры на GameJolt: <a href=\"https://gamejolt.com/@rootools/games\">https://gamejolt.com/@rootools/games</a></p>\n<p>И то что по новее на itch.io: <a href=\"https://rootools.itch.io/\">https://rootools.itch.io/</a><br /></p>\n<p><br /></p>\n<p>Добавить Masterplan Tycoon в вишлист: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\n</a></p><p>Бесплатно скачать демку тут: <a href=\"https://rootools.itch.io/masterplan-tycoon\">https://rootools.itch.io/masterplan-tycoon\n</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games\n</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>\n</p><p>\n</p><p>\n</p>",
+    "contentEncoded": "<p>Эпизод о том что такое хакатоны и чем они отличаются от геймджемов. О моих прототипах что накопились за долгие годы. И , конечно, о Ludum Dare.</p>\n<p><br /></p>\n<p>Совсем старые игры на GameJolt: <a href=\"https://gamejolt.com/@rootools/games\">https://gamejolt.com/@rootools/games</a></p>\n<p>И то что по новее на itch.io: <a href=\"https://rootools.itch.io/\">https://rootools.itch.io/</a><br /></p>\n<p><br /></p>\n<p>Добавить Masterplan Tycoon в вишлист: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\n</a></p><p>Бесплатно скачать демку тут: <a href=\"https://rootools.itch.io/masterplan-tycoon\">https://rootools.itch.io/masterplan-tycoon\n</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games\n</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>\n</p><p>\n</p><p>\n</p>"
+  },
+  "pubDate": "Tue, 05 Apr 2022 07:08:00 GMT",
+  "publishAt": "2022-04-05T07:08:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/64c95a27-6675-4c7d-b894-5b139cc7eef2.mp3",
+  "enclosureLength": 23218774,
+  "enclosureType": "audio/mpeg",
+  "duration": "1444",
+  "episode": "008",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/008.mp3",
+    "key": "008.mp3",
+    "sha256": "7516f5f43b16531310991627032530357c3e0670f366540de798a569d2defe5b",
+    "size": 23218774,
+    "mimeType": "audio/mpeg"
+  }
+}

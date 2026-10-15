@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-aa9eb61c09a59a27",
+  "guid": "dcff6ca6-e90b-428b-aeac-de699b22c36e",
+  "guidIsPermaLink": "false",
+  "title": "068. Загадка потерянных страниц",
+  "description": "Эпизод о том как я продвигаюсь с новым прототипом и какими подсистемами оброс мой движок за неделю<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Masterplan Tycoon(EGS): <a href=\"https://store.epicgames.com/ru/p/masterplan-tycoon-379d81\">https://store.epicgames.com/ru/p/masterplan-tycoon-379d81</a></p><p>Masterplan Tycoon(GOG): <a href=\"https://www.gog.com/en/game/masterplan_tycoon\">https://www.gog.com/en/game/masterplan_tycoon</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я продвигаюсь с новым прототипом и какими подсистемами оброс мой движок за неделю<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Masterplan Tycoon(EGS): <a href=\"https://store.epicgames.com/ru/p/masterplan-tycoon-379d81\">https://store.epicgames.com/ru/p/masterplan-tycoon-379d81</a></p><p>Masterplan Tycoon(GOG): <a href=\"https://www.gog.com/en/game/masterplan_tycoon\">https://www.gog.com/en/game/masterplan_tycoon</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том как я продвигаюсь с новым прототипом и какими подсистемами оброс мой движок за неделю<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Masterplan Tycoon(EGS): <a href=\"https://store.epicgames.com/ru/p/masterplan-tycoon-379d81\">https://store.epicgames.com/ru/p/masterplan-tycoon-379d81</a></p><p>Masterplan Tycoon(GOG): <a href=\"https://www.gog.com/en/game/masterplan_tycoon\">https://www.gog.com/en/game/masterplan_tycoon</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 05 Dec 2023 07:00:00 GMT",
+  "publishAt": "2023-12-05T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/3127561a-8f2a-4f8e-aef7-d614920e8ce5.mp3",
+  "enclosureLength": 25174559,
+  "enclosureType": "audio/mpeg",
+  "duration": "1566",
+  "episode": "068",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/068.mp3",
+    "key": "068.mp3",
+    "sha256": "0b103295d833cac14db4430b8f915dec0e546110d9d7092f86eccade850242f1",
+    "size": 25174559,
+    "mimeType": "audio/mpeg"
+  }
+}

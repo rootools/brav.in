@@ -1,0 +1,30 @@
+{
+  "title": "Стоит попробовать",
+  "description": "Подкаст о том, как, выгорев, я уволился с работы, чтобы довести свою игру до релиза и узнать, что из этого получится.",
+  "language": "ru-RU",
+  "author": "Антон Бравин",
+  "email": "anton.bravin@yandex.ru",
+  "categories": [
+    {
+      "name": "Society & Culture",
+      "subcategory": "Personal Journals"
+    },
+    {
+      "name": "Technology"
+    },
+    {
+      "name": "Business",
+      "subcategory": "Entrepreneurship"
+    }
+  ],
+  "explicit": false,
+  "image": "/assets/podcast-ntt-cover.jpg",
+  "pageUrl": "https://brav.in/podcast-ntt/",
+  "feedUrl": "https://brav.in/podcast-ntt/feed.xml",
+  "platforms": [
+    {
+      "title": "Podcast.ru",
+      "url": "https://podcast.ru/1610095958"
+    }
+  ]
+}

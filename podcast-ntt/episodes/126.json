@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-58418bf025121ecb",
+  "guid": "28397d44-b4c4-435c-86ca-0cad932b6284",
+  "guidIsPermaLink": "false",
+  "title": "126. Пи",
+  "description": "Эпизод о том как я пытаюсь вернуть дисциплину в разработке. А еще про то как я Пи(pi.dev) настраивал<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Слушать подкаст везде: <a href=\"https://needtotry.mave.digital/\">https://needtotry.mave.digital/</a></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Бюро Бравина: <a href=\"https://bravin.games/\">https://bravin.games/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bravingames\">https://t.me/bravingames</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я пытаюсь вернуть дисциплину в разработке. А еще про то как я Пи(pi.dev) настраивал<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Слушать подкаст везде: <a href=\"https://needtotry.mave.digital/\">https://needtotry.mave.digital/</a></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Бюро Бравина: <a href=\"https://bravin.games/\">https://bravin.games/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bravingames\">https://t.me/bravingames</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>",
+    "contentEncoded": "Эпизод о том как я пытаюсь вернуть дисциплину в разработке. А еще про то как я Пи(pi.dev) настраивал<p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Слушать подкаст везде: <a href=\"https://needtotry.mave.digital/\">https://needtotry.mave.digital/</a></p><p>Masterplan Tycoon(Steam): <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Купить на сайте: <a href=\"https://www.masterplantycoon.com/\">https://www.masterplantycoon.com/</a></p><p>Бюро Бравина: <a href=\"https://bravin.games/\">https://bravin.games/</a></p><p>Discord сервер игры: <a href=\"https://discord.gg/K3vYqnC\">https://discord.gg/K3vYqnC</a></p><p>Telegram: <a href=\"https://t.me/bravingames\">https://t.me/bravingames</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p>"
+  },
+  "pubDate": "Tue, 23 Jun 2026 07:00:00 GMT",
+  "publishAt": "2026-06-23T07:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/40e03f01-5c25-470e-bb49-7c42d399c1f2.mp3",
+  "enclosureLength": 37000035,
+  "enclosureType": "audio/mpeg",
+  "duration": "2308",
+  "episode": "126",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/126.mp3",
+    "key": "126.mp3",
+    "sha256": "329b1d0cc741ea78648b75d9a92e9ad0ccd5e6bf4a4e3115cab266a9f27705ea",
+    "size": 37000035,
+    "mimeType": "audio/mpeg"
+  }
+}

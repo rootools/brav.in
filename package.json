@@ -7,13 +7,22 @@
   },
   "scripts": {
     "build": "node scripts/build.mjs",
-    "check": "node --test scripts/check-site.mjs",
-    "preview": "http-server dist -p 8080 -c-1"
+    "check": "node --test scripts/check-site.mjs scripts/check-podcast.mjs",
+    "preview": "http-server dist -p 8080 -c-1",
+    "podcast:import": "node scripts/import-podcast.mjs",
+    "podcast:audit": "node scripts/audit-podcast.mjs",
+    "podcast:migrate": "node scripts/migrate-podcast.mjs",
+    "podcast:publish": "node scripts/publish-podcast.mjs"
   },
   "devDependencies": {
     "gray-matter": "^4.0.3",
     "http-server": "^14.1.1",
     "markdown-it": "^14.1.0",
     "parse5": "^7.2.1"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1152.0",
+    "fast-xml-parser": "^5.11.2",
+    "music-metadata": "^12.2.1"
   }
 }

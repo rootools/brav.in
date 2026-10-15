@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { parse } from 'parse5';
+import { XMLParser } from 'fast-xml-parser';
 
 const root = process.cwd();
 const dist = path.join(root, 'dist');
@@ -24,7 +25,7 @@ function textContent(node) { return (node.childNodes || []).map(child => child.n
 async function exists(candidates) { for (const candidate of candidates) { try { await fs.access(path.join(dist, candidate)); return true; } catch {} } return false; }
 
 test('обязательные файлы существуют', async () => {
-  for (const file of ['index.html', '404.html', 'assets/styles.css', 'favicon.png', 'robots.txt', 'sitemap.xml']) await fs.access(path.join(dist, file));
+  for (const file of ['index.html', '404.html', 'assets/styles.css', 'favicon.png', 'robots.txt', 'sitemap.xml', 'podcast-ntt/index.html', 'podcast-ntt/feed.xml']) await fs.access(path.join(dist, file));
 });
 
 test('главная содержит только нужные контакты и не содержит Tokyo', async () => {
@@ -59,7 +60,7 @@ test('все публикации имеют два адреса и правил
 });
 
 test('локальные ресурсы разрешаются', async () => {
-  const files = ['index.html', '404.html', ...posts.map(route => `${route}/index.html`), ...posts.map(route => `${route}.html`)];
+  const files = ['index.html', '404.html', 'podcast-ntt/index.html', ...posts.map(route => `${route}/index.html`), ...posts.map(route => `${route}.html`)];
   for (const file of files) {
     const doc = await document(file);
     for (const { attrs: item } of links(doc)) {
@@ -81,11 +82,23 @@ test('сохранены якоря большой статьи', async () => {
 });
 
 test('результат не содержит старые шаблоны и разделы', async () => {
-  const files = ['index.html', '404.html', ...posts.map(route => `${route}/index.html`), 'sitemap.xml'];
+  const files = ['index.html', '404.html', 'podcast-ntt/index.html', ...posts.map(route => `${route}/index.html`), 'sitemap.xml'];
   const text = await Promise.all(files.map(read)).then(values => values.join('\n'));
   assert.doesNotMatch(text, /Liquid|Jekyll|localhost|\{%|\{%/i);
   assert.doesNotMatch(text, /href="\/(cv|talks|search|atom\.xml|feed\.json)/);
   const sitemap = await read('sitemap.xml');
-  assert.equal((sitemap.match(/<loc>/g) || []).length, 16);
+  assert.equal((sitemap.match(/<loc>/g) || []).length, 17);
   assert.doesNotMatch(sitemap, /\.html/);
+});
+
+test('подкаст использует новый раздел и не содержит плеера', async () => {
+  const page = await read('podcast-ntt/index.html');
+  const doc = await document('podcast-ntt/index.html');
+  const canonical = walk(doc).find(node => node.nodeName === 'link' && attrs(node).rel === 'canonical');
+  assert.equal(attrs(canonical).href, `${siteUrl}/podcast-ntt/`);
+  assert.doesNotMatch(page, /<audio|<iframe|podcasts\\.apple\\.com/i);
+  assert.match(page, /feed\.xml/);
+  const feed = await read('podcast-ntt/feed.xml');
+  assert.doesNotThrow(() => new XMLParser({ ignoreAttributes: false }).parse(feed));
+  assert.match(feed, /atom:link/);
 });

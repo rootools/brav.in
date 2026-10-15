@@ -5,12 +5,14 @@ on:
     branches: [master]
   pull_request:
   workflow_dispatch:
+  schedule:
+    - cron: '10 3,7,11,15,19,23 * * *'
 
 permissions:
   contents: read
 
 concurrency:
-  group: pages
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
@@ -24,6 +26,8 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
+        env:
+          PODCAST_REQUIRE_READY: 'true'
       - run: npm run check
       - if: github.event_name != 'pull_request'
         uses: actions/upload-pages-artifact@v3

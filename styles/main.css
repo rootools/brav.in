@@ -37,11 +37,8 @@ p, ul, ol, blockquote, pre { margin: 1rem 0; }
 img, video, iframe { max-width: 100%; }
 img, video { height: auto; }
 iframe { border: 0; }
-.podcast-player {
-  width: 100%;
-  height: 450px;
-  border: 0;
-}
+.podcast-cover { width: min(100%, 22rem); height: auto; }
+.podcast-episode { border-top: 1px solid var(--border); margin-top: 2rem; padding-top: 1rem; }
 .contact-links {
   display: flex;
   flex-wrap: wrap;

@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-1c0ffb69e6a891b9",
+  "guid": "c055be27-ecaa-4f34-aadb-df0f983517cc",
+  "guidIsPermaLink": "false",
+  "title": "017. Девлог. Scriptable Object Architecture и рефакторинг",
+  "description": "Эпизод о том как я люблю узнавать что-то новое, внедрять это и почти не отхватывать побочных эффектов)<p><br /></p><p>Game Architecture with Scriptable Objects: <a href=\"https://www.youtube.com/watch?v=raQ3iHhE_Kk\">https://www.youtube.com/watch?v=raQ3iHhE_Kk</a></p><p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Добавить Masterplan Tycoon в вишлист: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Бесплатно скачать демку тут: <a href=\"https://rootools.itch.io/masterplan-tycoon\">https://rootools.itch.io/masterplan-tycoon</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p><p>\n</p><p>\n</p><p></p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как я люблю узнавать что-то новое, внедрять это и почти не отхватывать побочных эффектов)<p><br /></p><p>Game Architecture with Scriptable Objects: <a href=\"https://www.youtube.com/watch?v=raQ3iHhE_Kk\">https://www.youtube.com/watch?v=raQ3iHhE_Kk</a></p><p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Добавить Masterplan Tycoon в вишлист: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Бесплатно скачать демку тут: <a href=\"https://rootools.itch.io/masterplan-tycoon\">https://rootools.itch.io/masterplan-tycoon</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p><p>\n</p><p>\n</p><p></p>",
+    "contentEncoded": "Эпизод о том как я люблю узнавать что-то новое, внедрять это и почти не отхватывать побочных эффектов)<p><br /></p><p>Game Architecture with Scriptable Objects: <a href=\"https://www.youtube.com/watch?v=raQ3iHhE_Kk\">https://www.youtube.com/watch?v=raQ3iHhE_Kk</a></p><p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin</a></p><p><br /></p><p>Добавить Masterplan Tycoon в вишлист: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast</a></p><p>Бесплатно скачать демку тут: <a href=\"https://rootools.itch.io/masterplan-tycoon\">https://rootools.itch.io/masterplan-tycoon</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p><p>\n</p><p>\n</p><p></p>"
+  },
+  "pubDate": "Tue, 07 Jun 2022 06:58:00 GMT",
+  "publishAt": "2022-06-07T06:58:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/349f57b7-db7a-4e0c-9e62-fbd2ebe10d6d.mp3",
+  "enclosureLength": 21926622,
+  "enclosureType": "audio/mpeg",
+  "duration": "1361",
+  "episode": "017",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/017.mp3",
+    "key": "017.mp3",
+    "sha256": "b14812a49eb64f5b0384fd45e55a16efa13afa4179e5f269840dadb1e14d8a9e",
+    "size": 21926622,
+    "mimeType": "audio/mpeg"
+  }
+}

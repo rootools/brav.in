@@ -1,0 +1,29 @@
+{
+  "stableId": "episode-31046583afbef9a1",
+  "guid": "5ba10764-eb8e-4c93-909a-2da8bb7d6e04",
+  "guidIsPermaLink": "false",
+  "title": "016. Unity",
+  "description": "Эпизод о том как изменился Unity за 10 лет. От небольшого мультиплатформенного движка, до сервисного комбайна и первого места на рынке. Смешанные чувства и хронологические ошибки прилагаются!\n<p>\n</p><p><br /></p><p>Геймдев от первого лица: <a href=\"https://www.youtube.com/c/fpgamedev\">https://www.youtube.com/c/fpgamedev\n</a></p><p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin\n</a></p><p><br /></p><p>Добавить Masterplan Tycoon в вишлист: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\n</a></p><p>Бесплатно скачать демку тут: <a href=\"https://rootools.itch.io/masterplan-tycoon\">https://rootools.itch.io/masterplan-tycoon\n</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin\n</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p><p>\n</p><p>\n</p>",
+  "descriptionFormat": "html",
+  "additionalDescriptions": {
+    "description": "Эпизод о том как изменился Unity за 10 лет. От небольшого мультиплатформенного движка, до сервисного комбайна и первого места на рынке. Смешанные чувства и хронологические ошибки прилагаются!\n<p>\n</p><p><br /></p><p>Геймдев от первого лица: <a href=\"https://www.youtube.com/c/fpgamedev\">https://www.youtube.com/c/fpgamedev\n</a></p><p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin\n</a></p><p><br /></p><p>Добавить Masterplan Tycoon в вишлист: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\n</a></p><p>Бесплатно скачать демку тут: <a href=\"https://rootools.itch.io/masterplan-tycoon\">https://rootools.itch.io/masterplan-tycoon\n</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin\n</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p><p>\n</p><p>\n</p>",
+    "contentEncoded": "Эпизод о том как изменился Unity за 10 лет. От небольшого мультиплатформенного движка, до сервисного комбайна и первого места на рынке. Смешанные чувства и хронологические ошибки прилагаются!\n<p>\n</p><p><br /></p><p>Геймдев от первого лица: <a href=\"https://www.youtube.com/c/fpgamedev\">https://www.youtube.com/c/fpgamedev\n</a></p><p><br /></p><p>💰Поддержать на Boosty: <a href=\"https://boosty.to/anton.bravin\">https://boosty.to/anton.bravin\n</a></p><p><br /></p><p>Добавить Masterplan Tycoon в вишлист: <a href=\"https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\">https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\n</a></p><p>Бесплатно скачать демку тут: <a href=\"https://rootools.itch.io/masterplan-tycoon\">https://rootools.itch.io/masterplan-tycoon\n</a></p><p>Telegram: <a href=\"https://t.me/bobravin\">https://t.me/bobravin\n</a></p><p>ВК: <a href=\"https://vk.com/anton.bravin.games\">https://vk.com/anton.bravin.games</a></p><p>\n</p><p>\n</p>"
+  },
+  "pubDate": "Tue, 31 May 2022 06:00:00 GMT",
+  "publishAt": "2022-05-31T06:00:00.000Z",
+  "enclosureUrl": "https://api.mave.digital/storage/podcasts/0ab62c37-fb2c-40f0-8dcc-c6ad5ed0dc11/episodes/86f4748e-b5a5-4251-b456-41c54ec8e7c7.mp3",
+  "enclosureLength": 21758474,
+  "enclosureType": "audio/mpeg",
+  "duration": "1354",
+  "episode": "016",
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "rss",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/016.mp3",
+    "key": "016.mp3",
+    "sha256": "670487a0d02e32329d284f68c46672a8da93f04d403a5597a9f70e54be834119",
+    "size": 21758474,
+    "mimeType": "audio/mpeg"
+  }
+}

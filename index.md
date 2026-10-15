@@ -12,9 +12,9 @@ title: "Привет! Я Антон Бравин"
 
 <div style="height: 20px"></div>
 
-Веду подкаст "[Стоит попробовать](https://podcast.ru/1610095958)". Подкаст о том, как, выгорев, я уволился с работы, что бы довести свою игру до релиза и узнать что из этого получиться.
+Веду подкаст "[Стоит попробовать](https://brav.in/podcast-ntt/)". Подкаст о том, как, выгорев, я уволился с работы, чтобы довести свою игру до релиза и узнать, что из этого получится.
 
-<iframe class="podcast-player" title="Подкаст «Стоит попробовать»" src="https://embed.podcasts.apple.com/us/podcast/%D1%81%D1%82%D0%BE%D0%B8%D1%82-%D0%BF%D0%BE%D0%BF%D1%80%D0%BE%D0%B1%D0%BE%D0%B2%D0%B0%D1%82%D1%8C/id1610095958?itsct=podcast_box_player&amp;itscg=30200&amp;ls=1&amp;theme=auto" height="400" frameborder="0" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *;"></iframe>
+[Открыть страницу подкаста и RSS-каталог](/podcast-ntt/)
 
 
 А еще я выступаю на конференциях и в целом выгляжу смышленым. По необходимости 🙃
