@@ -1,0 +1,19 @@
+{
+  "name": "brav.in",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node --test scripts/check-site.mjs",
+    "preview": "http-server dist -p 8080 -c-1"
+  },
+  "devDependencies": {
+    "gray-matter": "^4.0.3",
+    "http-server": "^14.1.1",
+    "markdown-it": "^14.1.0",
+    "parse5": "^7.2.1"
+  }
+}

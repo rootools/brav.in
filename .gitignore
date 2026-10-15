@@ -4,4 +4,6 @@ tmp
 .sass-cache
 .DS_Store
 .jekyll-cache
+node_modules/
+dist/
 .git

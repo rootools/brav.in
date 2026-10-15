@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "🎧 Post Launch. Development for VR"
 ---
 

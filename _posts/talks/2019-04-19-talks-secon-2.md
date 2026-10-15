@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "🎤 Secon. Разработка игр для NES/Famicom/Денди. Ограничения и трюки"
 ---
 

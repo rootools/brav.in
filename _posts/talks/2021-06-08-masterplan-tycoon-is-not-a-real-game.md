@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "📝 Masterplan Tycoon — не настоящая игра"
 ---
 

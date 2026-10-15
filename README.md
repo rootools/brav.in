@@ -1,25 +1,28 @@
-# Sidey
+# brav.in
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Сайт-визитка Антона Бравина. Markdown-файлы — источник содержания, а `templates/page.html` и `styles/main.css` — источник оформления. `dist/` генерируется автоматически и не редактируется и не коммитится.
 
-### Features
+## Локальная работа
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+Требуется Node.js 20 или новее.
 
-### Screenshot
+```bash
+npm ci
+npm run build
+npm run check
+npm run preview
+```
 
-![Screenshot](screenshot.png)
+`npm run preview` запускает локальный просмотр каталога `dist/` на порту 8080.
+
+## Исходники и адреса
+
+Главная находится в `index.md`, публикации — в `_posts/talks/`, ошибка — в `404.md`. Для публикации `YYYY-MM-DD-slug.md` генератор создаёт основной адрес `/YYYY/MM/DD/slug/` и совместимый старый адрес `/YYYY/MM/DD/slug.html`. Canonical и sitemap используют только основной адрес.
+
+Ресурсы хранятся в `assets/`, `me.JPG` и `favicon.png`. Результат сборки — обычный статический HTML/CSS; JavaScript-генератор посетителю не передаётся.
+
+Текст, заголовки, подписи и код используют JetBrains Mono из Google Fonts, а при недоступности Google Fonts — системный моноширинный шрифт.
+
+## Публикация
+
+GitHub Actions запускает `npm ci`, сборку и проверки при push в `master`, для pull request выполняет только проверку, а успешный push публикует `dist/` через GitHub Pages. В настройках репозитория Pages должен быть выбран источник **GitHub Actions**, домен — `brav.in`, HTTPS — включён. Откат выполняется возвратом предыдущего коммита и повторной публикацией workflow; перед переключением Pages следует сохранить исходный commit и настройки.

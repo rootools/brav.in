@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "🎤 GameDev in Kazan. А что если?. Или нам нужен план Б!"
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "🎤 Secon. Пост мортем VR игры Joy Lab"
 ---
 
