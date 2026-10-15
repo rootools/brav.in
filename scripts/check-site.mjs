@@ -99,6 +99,7 @@ test('подкаст использует новый раздел и не сод
   assert.doesNotMatch(page, /<audio|<iframe|podcasts\\.apple\\.com/i);
   assert.match(page, /feed\.xml/);
   const feed = await read('podcast-ntt/feed.xml');
-  assert.doesNotThrow(() => new XMLParser({ ignoreAttributes: false }).parse(feed));
-  assert.match(feed, /atom:link/);
+  const channel = new XMLParser({ ignoreAttributes: false }).parse(feed).rss.channel;
+  assert.equal(channel['itunes:new-feed-url'], `${siteUrl}/podcast-ntt/feed.xml`);
+  assert.equal(channel['itunes:new-feed-url'], channel['atom:link']['@_href']);
 });
