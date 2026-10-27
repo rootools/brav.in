@@ -412,6 +412,60 @@ test('категории используют таксономию Apple Podcast
   assert.equal(show.categories.every(category => valid.has(typeof category === 'string' ? category : category.name) && (!category.subcategory || valid.has(category.subcategory))), true);
 });
 
+test('CLI публикации выбирает текущую дату только для нового выпуска без --publish-at', async () => {
+  const parent = path.join(root, '.podcast-publish');
+  await fs.mkdir(parent, { recursive: true });
+  const temp = await fs.mkdtemp(path.join(parent, 'publish-date-'));
+  try {
+    await fs.mkdir(path.join(temp, 'episodes'));
+    await fs.writeFile(path.join(temp, '129.mp3'), 'fixture');
+    await fs.copyFile(path.join(root, 'scripts/publish-podcast.mjs'), path.join(temp, 'publish-podcast.mjs'));
+    await fs.writeFile(path.join(temp, 'podcast-lib.mjs'), `
+      import fs from 'node:fs/promises';
+      import path from 'node:path';
+      export const podcastDir = process.cwd(), episodesDir = path.join(podcastDir, 'episodes'), stateDir = path.join(podcastDir, 'state');
+      export const inspectAudio = async () => ({ title: 'Название', description: 'Описание' });
+      export const publicObjectKey = name => name, episodeJsonFileName = () => '129.json';
+      export const ensureObject = async () => ({ url: 'https://fixture.test/129.mp3' });
+      export const episodeFromAudio = base => base;
+      export const validatePreparedEpisode = () => { throw new Error('Unexpected recovery'); };
+      export const readJson = async file => JSON.parse(await fs.readFile(file, 'utf8'));
+      export const ensureDirs = async () => {};
+      export const writeJson = async (file, value) => { console.log(JSON.stringify(value)); throw new Error('STOP_BEFORE_GIT_WRITE'); };
+    `);
+    const preload = path.join(temp, 'mock-git.mjs');
+    await fs.writeFile(preload, `
+      import childProcess from 'node:child_process';
+      import { syncBuiltinESMExports } from 'node:module';
+      childProcess.execFile = (command, args, callback) => {
+        const responses = { 'branch --show-current': 'master', 'remote get-url origin': 'https://github.com/rootools/brav.in', 'rev-parse master': 'head', 'ls-remote origin refs/heads/master': 'head', 'status --porcelain=v1': '' };
+        if (command !== 'git' || !Object.hasOwn(responses, args.join(' '))) throw new Error('Unexpected command: ' + command + ' ' + args.join(' '));
+        callback(null, responses[args.join(' ')], '');
+      };
+      childProcess.execFile[Symbol.for('nodejs.util.promisify.custom')] = async (command, args) => new Promise((resolve, reject) => childProcess.execFile(command, args, (error, stdout, stderr) => error ? reject(error) : resolve({ stdout, stderr })));
+      syncBuiltinESMExports();
+    `);
+    const run = async (date, expectedError = /STOP_BEFORE_GIT_WRITE/) => {
+      let failure;
+      try { await exec(process.execPath, ['--import', preload, 'publish-podcast.mjs', '--audio', '129.mp3', ...(date ? ['--publish-at', date] : [])], { cwd: temp }); } catch (error) { failure = error; }
+      assert.ok(failure);
+      assert.match(failure.stderr, expectedError);
+      return failure.stdout ? JSON.parse(failure.stdout) : null;
+    };
+    const before = Date.now();
+    const current = await run();
+    assert.ok(Date.parse(current.publishAt) >= before && Date.parse(current.publishAt) <= Date.now());
+    assert.equal(current.pubDate, new Date(current.publishAt).toUTCString());
+    assert.equal((await run('2026-10-27T11:00:00+04:00')).publishAt, '2026-10-27T07:00:00.000Z');
+    const existing = { stableId: 'existing', guid: 'existing', publishAt: '2020-01-01T00:00:00.000Z', pubDate: 'Wed, 01 Jan 2020 00:00:00 GMT', audio: { key: '129.mp3' } };
+    await fs.writeFile(path.join(temp, 'episodes/129.json'), JSON.stringify(existing));
+    assert.deepEqual(await run(), existing);
+    assert.deepEqual(await run('2020-01-01T00:00:00Z'), existing);
+    await run('2026-10-27T11:00:00+04:00', /Для редактирования нельзя менять publishAt/);
+    await run('invalid', /--publish-at должен быть корректной датой/);
+  } finally { await fs.rm(temp, { recursive: true, force: true }); }
+});
+
 const writeJson = (file, value) => fs.mkdir(path.dirname(file), { recursive: true }).then(() => fs.writeFile(file, `${JSON.stringify(value, null, 2)}\n`));
 
 async function migrationFixture({ confirmed = [], stateOverrides = {}, mappingComplete = true } = {}) {

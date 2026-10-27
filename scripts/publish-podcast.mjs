@@ -46,8 +46,7 @@ const stateFile = path.join(stateDir, `${stableId}.json`);
 let state = null;
 try { state = await readJson(stateFile); } catch {}
 if (existing && suppliedPublishAt && new Date(suppliedPublishAt).toISOString() !== existing.publishAt) throw new Error('Для редактирования нельзя менять publishAt: дата не совпадает с существующей записью');
-const publishAt = existing?.publishAt || suppliedPublishAt;
-if (!publishAt) throw new Error('Для нового выпуска укажите --publish-at');
+const publishAt = existing?.publishAt || suppliedPublishAt || new Date().toISOString();
 const expectedPublishAt = new Date(publishAt).toISOString();
 const expectedPubDate = new Date(publishAt).toUTCString();
 const recoveryState = state && (state.kind === 'publish' || state.id3Sha256) && state.stableId === stableId && state.key === key && state.sha256 === info.sha256;
