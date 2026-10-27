@@ -74,7 +74,14 @@ function calculateAge(today = new Date()) {
 }
 
 function podcastText(value) {
-  return escape(value).split(/\n{2,}/).map(paragraph => `<p>${paragraph.replace(/\n/g, '<br>')}</p>`).join('');
+  let html = ''; let offset = 0;
+  for (const match of md.linkify.match(value) || []) {
+    if (!/^https?:\/\//i.test(match.url)) continue;
+    html += escape(value.slice(offset, match.index)) + `<a href="${escape(match.url)}">${escape(match.text)}</a>`;
+    offset = match.lastIndex;
+  }
+  html += escape(value.slice(offset));
+  return html.split(/\n{2,}/).map(paragraph => `<p>${paragraph.replace(/\n/g, '<br>')}</p>`).join('');
 }
 
 function podcastDate(episode) {

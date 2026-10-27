@@ -70,8 +70,8 @@ export function rssItem(item, index, id = undefined) {
 }
 
 export function id3Metadata(metadata) {
-  const title = metadata.common?.title?.trim() || '';
   const frames = [...(metadata.native?.['ID3v2.3'] || []), ...(metadata.native?.['ID3v2.4'] || [])];
+  const title = (frames.find(item => item.id === 'TIT2')?.value || '').toString().trim();
   const description = (frames.find(item => item.id === 'TIT3')?.value || '').toString().trim();
   return { title, description };
 }

@@ -7,7 +7,7 @@ import { execFile } from 'node:child_process';
 import os from 'node:os';
 import crypto from 'node:crypto';
 import { Readable } from 'node:stream';
-import { verifyPublicObject, validatePreparedEpisode, publicObjectKey, ensureObject, sourceItems, rssItem, markMigrationInProgress } from './podcast-lib.mjs';
+import { verifyPublicObject, validatePreparedEpisode, publicObjectKey, ensureObject, sourceItems, rssItem, markMigrationInProgress, id3Metadata } from './podcast-lib.mjs';
 
 const root = process.cwd();
 const podcast = path.join(root, 'podcast-ntt');
@@ -29,6 +29,13 @@ test('настройки S3 загружаются из .env, а окружен�
     assert.deepEqual(await config(), expected);
     assert.deepEqual(await config({ VK_CLOUD_BUCKET: 'override', AWS_PROFILE: 'override-profile' }), { ...expected, bucket: 'override', profile: 'override-profile' });
   } finally { await fs.rm(temp, { recursive: true, force: true }); }
+});
+
+test('название и описание берутся из ID3, а не из конфликтующих APEv2 тегов', () => {
+  for (const format of ['ID3v2.3', 'ID3v2.4']) {
+    assert.deepEqual(id3Metadata({ common: { title: '129' }, native: { [format]: [{ id: 'TIT2', value: ' 129. Кол оф дьюти на скейтборде ' }, { id: 'TIT3', value: ' Описание ' }], APEv2: [{ id: 'Title', value: '129' }] } }), { title: '129. Кол оф дьюти на скейтборде', description: 'Описание' });
+  }
+  assert.deepEqual(id3Metadata({ common: { title: 'Только APEv2' }, native: { APEv2: [{ id: 'Title', value: 'Только APEv2' }] } }), { title: '', description: '' });
 });
 
 test('имя корневого объекта безопасно и не содержит SHA или префикса', () => {
@@ -513,7 +520,7 @@ if (!process.env.PODCAST_REGRESSION_CHILD) test('build/check допускают 
     await fs.writeFile(path.join(temp, 'podcast-ntt/episodes', preservedFile), `${JSON.stringify(preservedEpisode, null, 2)}\n`);
     await exec('npm', ['run', 'podcast:import'], { cwd: temp });
     assert.equal((await readJson(path.join(temp, 'podcast-ntt/episodes', preservedFile))).audio.sha256, '2'.repeat(64));
-    await fs.writeFile(path.join(temp, 'podcast-ntt/episodes/episode-regression.json'), `${JSON.stringify({ stableId: 'episode-regression', guid: 'podcast-ntt:regression', title: 'Регрессионный выпуск', description: 'Проверка', descriptionFormat: 'text', pubDate: new Date(0).toUTCString(), publishAt: new Date(0).toISOString(), audio: { url: 'https://cdn.example.test/regression.mp3', size: 1, sha256: '0'.repeat(64), key: 'podcast-ntt/regression.mp3' }, duration: '1', enclosureLength: 1, enclosureType: 'audio/mpeg' }, null, 2)}\n`);
+    await fs.writeFile(path.join(temp, 'podcast-ntt/episodes/episode-regression.json'), `${JSON.stringify({ stableId: 'episode-regression', guid: 'podcast-ntt:regression', title: 'Регрессионный выпуск', description: 'Проверка <script>alert(1)</script> & *текст*\nСсылка: https://example.test/path?a=1&b=2\n\nЕщё https://example.test/second. javascript:alert(1)', descriptionFormat: 'text', pubDate: new Date(0).toUTCString(), publishAt: new Date(0).toISOString(), audio: { url: 'https://cdn.example.test/regression.mp3', size: 1, sha256: '0'.repeat(64), key: 'podcast-ntt/regression.mp3' }, duration: '1', enclosureLength: 1, enclosureType: 'audio/mpeg' }, null, 2)}\n`);
     await fs.writeFile(path.join(temp, 'podcast-ntt/episodes/episode-html.json'), `${JSON.stringify({ stableId: 'episode-html', guid: 'podcast-ntt:html', title: 'HTML', description: '<p>Сохранённый HTML</p>', descriptionFormat: 'html', pubDate: new Date(0).toUTCString(), publishAt: new Date(0).toISOString(), audio: { url: 'https://cdn.example.test/html.mp3', size: 1, sha256: '1'.repeat(64), key: 'podcast-ntt/html.mp3' }, duration: '1', enclosureLength: 1, enclosureType: 'audio/mpeg' }, null, 2)}\n`);
     tempMapping.migrationComplete = false;
     await fs.writeFile(path.join(temp, 'podcast-ntt/migration/mapping.json'), `${JSON.stringify(tempMapping, null, 2)}\n`);
@@ -531,6 +538,12 @@ if (!process.env.PODCAST_REGRESSION_CHILD) test('build/check допускают 
     const feed = await fs.readFile(path.join(temp, 'dist/podcast-ntt/feed.xml'), 'utf8');
     assert.match(feed, /<!\[CDATA\[<p>Сохранённый HTML<\/p>\]\]>/);
     assert.doesNotMatch(feed, /&lt;p&gt;Сохранённый HTML/);
+    const page = await fs.readFile(path.join(temp, 'dist/podcast-ntt/index.html'), 'utf8');
+    for (const output of [page, feed]) {
+      assert.ok(output.includes('<p>Проверка &lt;script&gt;alert(1)&lt;/script&gt; &amp; *текст*<br>Ссылка: <a href="https://example.test/path?a=1&amp;b=2">https://example.test/path?a=1&amp;b=2</a></p>'));
+      assert.ok(output.includes('<p>Ещё <a href="https://example.test/second">https://example.test/second</a>. javascript:alert(1)</p>'));
+      assert.doesNotMatch(output, /href="javascript:/);
+    }
     await exec('npm', ['run', 'check'], { cwd: temp, env: { ...process.env, PODCAST_REGRESSION_CHILD: '1' } });
   } finally { await fs.rm(temp, { recursive: true, force: true }); }
 });
