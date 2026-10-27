@@ -1,0 +1,25 @@
+{
+  "stableId": "episode-24dc0d68ac1bb181",
+  "guid": "podcast-ntt:episode-24dc0d68ac1bb181",
+  "guidIsPermaLink": false,
+  "title": "129",
+  "description": "Эпизод о том как две недели меняют все, а потом еще две недели и еще, и это теперь новая норма\n\n💰Поддержать на Boosty: https://boosty.to/anton.bravin\n\nСлушать подкаст везде: https://podcast.ru/1610095958\nMasterplan Tycoon(Steam): https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\nКупить на сайте: https://www.masterplantycoon.com/\nБюро Бравина: https://bravin.games/\nDiscord сервер игры: https://discord.gg/K3vYqnC\nTelegram: https://t.me/bravingames\nВК: https://vk.com/anton.bravin.games",
+  "descriptionFormat": "text",
+  "additionalDescriptions": {},
+  "pubDate": "Tue, 27 Oct 2026 06:48:58 GMT",
+  "publishAt": "2026-10-27T06:48:58.000Z",
+  "episode": null,
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "id3",
+  "duration": "2845",
+  "enclosureLength": 45619920,
+  "enclosureType": "audio/mpeg",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/129.mp3",
+    "key": "129.mp3",
+    "sha256": "6569489d6f45c23e6f5407d2f06dc8b0e12d7831c84b1cdb69cd25f6ff4ecd54",
+    "size": 45619920,
+    "mimeType": "audio/mpeg"
+  }
+}
