@@ -2,11 +2,13 @@ import fs from 'node:fs/promises';
 import fsSync from 'node:fs';
 import path from 'node:path';
 import crypto from 'node:crypto';
+import { loadEnvFile } from 'node:process';
 import { S3Client, GetObjectCommand, HeadObjectCommand, PutObjectCommand } from '@aws-sdk/client-s3';
 import { XMLParser } from 'fast-xml-parser';
 import { parseFile } from 'music-metadata';
 
 export const root = process.cwd();
+try { loadEnvFile(path.join(root, '.env')); } catch (error) { if (error.code !== 'ENOENT') throw error; }
 export const podcastDir = path.join(root, 'podcast-ntt');
 export const episodesDir = path.join(podcastDir, 'episodes');
 export const stateDir = path.join(root, '.podcast-publish');
@@ -92,7 +94,11 @@ export function publicObjectKey(fileName) {
   return fileName;
 }
 export function s3Config(env = process.env) { return { endpoint: env.VK_CLOUD_ENDPOINT, region: env.VK_CLOUD_REGION, bucket: env.VK_CLOUD_BUCKET, publicBaseUrl: env.VK_CLOUD_PUBLIC_BASE_URL?.replace(/\/$/, '') }; }
-export function s3Client(config = s3Config()) { if (!config.endpoint || !config.bucket || !config.publicBaseUrl) throw new Error('Нужны VK_CLOUD_ENDPOINT, VK_CLOUD_REGION, VK_CLOUD_BUCKET и VK_CLOUD_PUBLIC_BASE_URL'); return { client: config.client || new S3Client({ endpoint: config.endpoint, region: config.region || 'ru-msk', forcePathStyle: false }), ...config }; }
+export function s3Client(config = s3Config()) {
+  const missing = [['endpoint', 'VK_CLOUD_ENDPOINT'], ['bucket', 'VK_CLOUD_BUCKET'], ['publicBaseUrl', 'VK_CLOUD_PUBLIC_BASE_URL']].filter(([key]) => !config[key]).map(([, name]) => name);
+  if (missing.length) throw new Error(`Не заданы ${missing.join(', ')}. Сохраните настройки в .env в корне проекта (см. .env.example) или задайте переменные окружения.`);
+  return { client: config.client || new S3Client({ endpoint: config.endpoint, region: config.region || 'ru-msk', forcePathStyle: false }), ...config };
+}
 
 class PublicNotFoundError extends Error {
   constructor(stage, url) {

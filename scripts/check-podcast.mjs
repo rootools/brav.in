@@ -14,6 +14,23 @@ const podcast = path.join(root, 'podcast-ntt');
 const readJson = file => fs.readFile(file, 'utf8').then(JSON.parse);
 const exec = promisify(execFile);
 
+test('настройки S3 загружаются из .env, а окружение имеет приоритет', async () => {
+  const stateDir = path.join(root, '.podcast-publish');
+  await fs.mkdir(stateDir, { recursive: true });
+  const temp = await fs.mkdtemp(path.join(stateDir, 'env-test-'));
+  const env = { ...process.env };
+  for (const key of ['VK_CLOUD_ENDPOINT', 'VK_CLOUD_REGION', 'VK_CLOUD_BUCKET', 'VK_CLOUD_PUBLIC_BASE_URL', 'AWS_PROFILE']) delete env[key];
+  const script = `import { s3Config } from ${JSON.stringify(new URL('./podcast-lib.mjs', import.meta.url).href)}; console.log(JSON.stringify({ ...s3Config(), profile: process.env.AWS_PROFILE }));`;
+  const config = async overrides => JSON.parse((await exec(process.execPath, ['--input-type=module', '-e', script], { cwd: temp, env: { ...env, ...overrides } })).stdout);
+  try {
+    assert.deepEqual(await config(), {});
+    await fs.writeFile(path.join(temp, '.env'), 'VK_CLOUD_ENDPOINT=https://s3.fixture.test\nVK_CLOUD_REGION=ru-msk\nVK_CLOUD_BUCKET=fixture\nVK_CLOUD_PUBLIC_BASE_URL=https://public.fixture.test/\nAWS_PROFILE=fixture-profile\n');
+    const expected = { endpoint: 'https://s3.fixture.test', region: 'ru-msk', bucket: 'fixture', publicBaseUrl: 'https://public.fixture.test', profile: 'fixture-profile' };
+    assert.deepEqual(await config(), expected);
+    assert.deepEqual(await config({ VK_CLOUD_BUCKET: 'override', AWS_PROFILE: 'override-profile' }), { ...expected, bucket: 'override', profile: 'override-profile' });
+  } finally { await fs.rm(temp, { recursive: true, force: true }); }
+});
+
 test('имя корневого объекта безопасно и не содержит SHA или префикса', () => {
   assert.equal(publicObjectKey('001.mp3'), '001.mp3');
   assert.throws(() => publicObjectKey('../001.mp3'));
