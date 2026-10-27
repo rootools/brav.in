@@ -16,6 +16,16 @@ npm run podcast:migrate -- --audio-root "$HOME/Downloads/_Render"
 
 ## Новые выпуски
 
+Публикация нового выпуска из `~/Downloads/podcast/` с текущей датой UTC:
+
+```sh
+npm run podcast:publish -- \
+  --audio "$HOME/Downloads/podcast/129.mp3" \
+  --publish-at "$(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+```
+
+Для публикации с заданной датой:
+
 ```bash
 npm run podcast:publish -- \
   --audio "$HOME/Yandex.Disk.localized/Work/Projects/NeedToTry/_Render/129.mp3" \
