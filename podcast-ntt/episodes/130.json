@@ -1,0 +1,25 @@
+{
+  "stableId": "episode-aa383c6ad034e822",
+  "guid": "podcast-ntt:episode-aa383c6ad034e822",
+  "guidIsPermaLink": false,
+  "title": "130. Два года поисков",
+  "description": "Эпизод о том как я нашел нужный кор геймплей! А еще сделал себе новых инструментов! Иными словами - подкаст радости!)\n\n💰Поддержать на Boosty: https://boosty.to/anton.bravin\n\nСлушать подкаст везде: https://podcast.ru/1610095958\nMasterplan Tycoon(Steam): https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\nКупить на сайте: https://www.masterplantycoon.com/\nБюро Бравина: https://bravin.games/\nDiscord сервер игры: https://discord.gg/K3vYqnC\nTelegram: https://t.me/bravingames\nВК: https://vk.com/anton.bravin.games",
+  "descriptionFormat": "text",
+  "additionalDescriptions": {},
+  "pubDate": "Tue, 10 Nov 2026 06:37:08 GMT",
+  "publishAt": "2026-11-10T06:37:08.062Z",
+  "episode": null,
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "id3",
+  "duration": "2061",
+  "enclosureLength": 33103290,
+  "enclosureType": "audio/mpeg",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/130.mp3",
+    "key": "130.mp3",
+    "sha256": "228b3ad27ea09ac3529bcfce457c2bf3bb1b689577f40000c79a17db072be12f",
+    "size": 33103290,
+    "mimeType": "audio/mpeg"
+  }
+}
