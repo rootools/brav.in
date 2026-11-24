@@ -1,0 +1,25 @@
+{
+  "stableId": "episode-38df7120dd3d33a8",
+  "guid": "podcast-ntt:episode-38df7120dd3d33a8",
+  "guidIsPermaLink": false,
+  "title": "131. Немного рогаликов",
+  "description": "Эпизод о том как я учусь делать рогалики, занимаюсь удаленной разработкой и смотрю чуть-чуть запрещенное аниме\n\n💰Поддержать на Boosty: https://boosty.to/anton.bravin\n\nСлушать подкаст везде: https://podcast.ru/1610095958\nMasterplan Tycoon(Steam): https://store.steampowered.com/app/1644500/Masterplan_Tycoon/?utm_source=podcast\nКупить на сайте: https://www.masterplantycoon.com/\nБюро Бравина: https://bravin.games/\nDiscord сервер игры: https://discord.gg/K3vYqnC\nTelegram: https://t.me/bravingames\nВК: https://vk.com/anton.bravin.games",
+  "descriptionFormat": "text",
+  "additionalDescriptions": {},
+  "pubDate": "Tue, 24 Nov 2026 07:00:28 GMT",
+  "publishAt": "2026-11-24T07:00:28.826Z",
+  "episode": null,
+  "season": null,
+  "episodeType": "full",
+  "metadataOrigin": "id3",
+  "duration": "1979",
+  "enclosureLength": 31766545,
+  "enclosureType": "audio/mpeg",
+  "audio": {
+    "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/131.mp3",
+    "key": "131.mp3",
+    "sha256": "f87f14577bc9ee893d3cf61e932c27523c4620a6479131d23546fe26de571871",
+    "size": 31766545,
+    "mimeType": "audio/mpeg"
+  }
+}
