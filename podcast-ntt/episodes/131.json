@@ -13,13 +13,13 @@
   "episodeType": "full",
   "metadataOrigin": "id3",
   "duration": "1979",
-  "enclosureLength": 31766545,
+  "enclosureLength": 31661417,
   "enclosureType": "audio/mpeg",
   "audio": {
     "url": "https://podcast-needtotry.hb.ru-msk.vkcloud-storage.ru/131.mp3",
     "key": "131.mp3",
-    "sha256": "f87f14577bc9ee893d3cf61e932c27523c4620a6479131d23546fe26de571871",
-    "size": 31766545,
+    "sha256": "c3d8a6285c9fd081c5fd490ce6faf2db736597bb63d8bbe6e2cbdf254abebd8d",
+    "size": 31661417,
     "mimeType": "audio/mpeg"
   }
 }
